@@ -28,3 +28,12 @@ AV do B04 \> doctor traci <https://www.tiktok.com/@doctortraci/video/74246325667
 Av do B06
 
 <https://www.tiktok.com/@julesvandegevel/video/7634647852299439381?q=brain%20fog%20over%2055
+
+---
+
+## Confirmação do cliente (22/10)
+Avatares validados que "já deram bom" e devem ser reaproveitados como peça visual:
+- **AV06 Wendy McCallum** — tiktok.com/@wendymccallummedium
+- **IntuitiveKB (Karen Bell)** — youtube.com/@IntuitiveKB/shorts
+
+Regra: o avatar é só rosto e cenário. A voz da copy continua a dos ads validados (SD02, B04, B06), não o tom de voz do criador original.
