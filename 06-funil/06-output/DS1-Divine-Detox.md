@@ -1,7 +1,7 @@
 # DS1 — DIVINE DETOX (downsell de quem recusa o UP1)
 
 **Posição no funil:** aparece pra quem recusou o UP1 (Divine Detox 3/6/10 frascos). Quem aceita ou recusa segue pro UP2.
-**Público:** 74% dos compradores do front. Em números absolutos, a maioria comprou M3 (6 frascos a $49) e recusou um complemento que custava mais por frasco que o produto principal. Comunicação neutra ("people"), sem foco em mulher, por decisão do cliente. Acabou de gastar $197 a $297, ouviu o argumento inteiro da "segunda fase" e disse não. A objeção dominante é preço e "deixa eu ver o Soul Flush funcionar primeiro", não descrença no mecanismo.
+**Público:** 74% dos compradores do front. Em números absolutos, a maioria comprou M3 (6 frascos a $49) e recusou um complemento que custava mais por frasco que o produto principal. Tratamento de gênero "no meio", como UP2 e DS2: poucas menções diretas a mulher. Acabou de gastar $197 a $297, ouviu o argumento inteiro da "segunda fase" e disse não. A objeção dominante é preço e "deixa eu ver o Soul Flush funcionar primeiro", não descrença no mecanismo.
 **Oferta (premissa, confirmar):** 2 frascos de Divine Detox a $49 cada = $98. Abaixo do menor kit do UP1 ($177) e espelhando o DS2 que valida (2 fr a $49). Frete junto com o pedido, sem custo. Garantia de 180 dias.
 **Quem fala:** Theresa, criadora da fórmula, mesma voz do UP1.
 **Estruturas usadas:** swipes de Gut Drops (TSL validada: "maybe X was too much", preço por frasco, "have had and lost it", frete, garantia) + DS2 validado (respeito à recusa, estágio que ela perde, oferta única, "não volta", benção da avó, "you already know which one you'll regret") + UP1 (mecanismo da segunda fase).
@@ -33,13 +33,13 @@ But there's one thing I can't let happen without saying something first.
 
 Because the moment Soul Flush starts breaking the fluoride crust off your pineal gland, the first 60 days are when the most buildup is released into your body.
 
-**[FP]** This is the part that gets people stuck.
+**[FP]** This is the part that gets women stuck.
 
 Years of fluoride, loosened all at once, and nowhere to go.
 
 That's when you feel heavier instead of lighter. Low energy. Bloating. Restless sleep. Intuition that's sharp one morning and cloudy the next.
 
-Some people assume Soul Flush isn't working. **[FP]** It's the opposite. It's working so well that the body can't keep up.
+Some women assume Soul Flush isn't working. **[FP]** It's the opposite. It's working so well that the body can't keep up.
 
 That's exactly why I created Divine Detox. Soul Flush breaks it loose. Divine Detox carries it out.
 
@@ -130,13 +130,13 @@ Mas tem uma coisa que eu não posso deixar acontecer sem dizer antes.
 
 Porque no momento em que o Soul Flush começa a quebrar a crosta de flúor da sua pineal, os primeiros 60 dias são quando a maior quantidade de resíduo é liberada no seu corpo.
 
-[FP] É nessa parte que as pessoas travam.
+[FP] É nessa parte que as mulheres travam.
 
 Anos de flúor soltos de uma vez, sem ter pra onde ir.
 
 É aí que você se sente mais pesada em vez de mais leve. Pouca energia. Inchaço. Sono agitado. Intuição afiada numa manhã e turva na outra.
 
-Algumas pessoas acham que o Soul Flush não está funcionando. [FP] É o contrário. Está funcionando tão bem que o corpo não dá conta.
+Algumas mulheres acham que o Soul Flush não está funcionando. [FP] É o contrário. Está funcionando tão bem que o corpo não dá conta.
 
 Foi exatamente por isso que eu criei o Divine Detox. O Soul Flush solta. O Divine Detox carrega pra fora.
 
@@ -212,15 +212,15 @@ Wait. Don't close this page yet.
 
 **[FP]** I'm not going to try to change your mind. I'm going to tell you something I wish someone had told me.
 
-I understand. You just invested in Soul Flush, and adding a full supply of Divine Detox on the same day may feel like too much. I respect that. Not everyone is ready for the complete protocol today, and that's okay.
+I understand. You just invested in Soul Flush, and adding a full supply of Divine Detox on the same day may feel like too much. I respect that. Not every woman is ready for the complete protocol today, and that's okay.
 
 But here's what I've seen too many times.
 
-Someone starts Soul Flush. Within days, the hyssop begins breaking the fluoride crust off their pineal gland. They feel the chills on the back of the neck. The radio in their head goes quiet. They sleep.
+A woman starts Soul Flush. Within days, the hyssop begins breaking the fluoride crust off her pineal gland. She feels the chills on the back of her neck. The radio in her head goes quiet. She sleeps.
 
-And then, in week two or three, something strange happens. They feel heavier. Bloated. Tired again. The intuition that was so sharp on Monday is cloudy by Thursday.
+And then, in week two or three, something strange happens. She feels heavier. Bloated. Tired again. Her intuition that was so sharp on Monday is cloudy by Thursday.
 
-**[FP]** And they think it stopped working. It didn't. Their body is drowning in what was just released.
+**[FP]** And she thinks it stopped working. It didn't. Her body is drowning in what was just released.
 
 Years of fluoride, loosened all at once, with nowhere to go. It doesn't disappear. It circulates. And until it leaves, the purification of your temple can't finish.
 

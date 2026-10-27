@@ -38,4 +38,4 @@ Headline "FINAL CHANCE to upgrade…" → "Maybe 6 bottles was a little too much
 - 86 frascos em estoque, ingredientes colhidos em ciclos lunares.
 
 ## Regra de comunicação (decisão do cliente, 27/10)
-Peças novas do funil falam com "pessoas", não com "mulher". Referência: UP1 já é neutro. VSL (31 menções), UP2 (2) e DS2 (3) ainda falam com mulher; ajustar na fase de revisão se o cliente quiser.
+A persona da VSL é feminina e isso se mantém. Peças de pós-venda ficam "no meio", como UP2 e DS2: poucas menções diretas a mulher (2 a 4), sem neutralizar nem carregar. DS1 segue esse padrão.
