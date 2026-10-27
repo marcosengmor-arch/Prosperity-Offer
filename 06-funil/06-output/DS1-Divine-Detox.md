@@ -11,6 +11,149 @@
 ---
 ---
 
+## VERSÃO PRINCIPAL — VSL (PT-BR, só pra revisão)
+
+Espera. Não feche essa página ainda.
+
+O seu pedido de Soul Flush ainda não está protegido.
+
+[FP] Eu não vou tentar mudar a sua decisão. Vou te contar uma coisa que eu queria que alguém tivesse me contado.
+
+Eu entendo.
+
+Você acabou de investir no Soul Flush, e adicionar um suprimento completo de Divine Detox no mesmo dia pode parecer demais.
+
+Eu respeito isso. Nem toda mulher está pronta pro protocolo completo hoje, e tudo bem.
+
+[FP] Como amiga, eu nunca te empurraria pra algo pra que você não está pronta.
+
+Mas aqui está o que eu já vi acontecer vezes demais.
+
+Uma mulher começa o Soul Flush.
+
+Em poucos dias, o hissopo começa a quebrar a crosta de flúor da pineal dela.
+
+Ela sente os arrepios na nuca. O rádio na cabeça dela silencia. Ela dorme.
+
+E aí, na segunda ou terceira semana, acontece uma coisa estranha.
+
+Ela se sente mais pesada. Inchada. Cansada de novo.
+
+A intuição que estava tão afiada na segunda-feira está turva na quinta.
+
+[FP] E ela acha que parou de funcionar.
+
+Não parou. O corpo dela está se afogando no que acabou de ser liberado.
+
+Anos de flúor, soltos de uma vez, sem ter pra onde ir.
+
+Ele não desaparece. Ele circula.
+
+[FP] E aqui está a parte que ninguém te avisa.
+
+Esse flúor solto continua magneticamente atraído pela sua pineal.
+
+Dê algumas semanas sem ter pra onde ir, e ele assenta de volta exatamente de onde saiu.
+
+A crosta se refaz.
+
+Os arrepios param. O rádio liga de novo. Os sinais que estavam começando a aparecer ficam mudos outra vez.
+
+[FP] Tudo o que você acabou de pagar escorre, uma semana por vez, e você nem vê acontecendo.
+
+[FP] E é exatamente com isso que eles contam.
+
+Você começa. Sente o peso. Desiste. E a água faz o resto.
+
+Ouça o que a Karen me escreveu depois da segunda semana:
+
+"Theresa, eu quase parei. Me sentia tão pesada e inchada que achei que o Soul Flush estava me fazendo mal. Aí adicionei o Divine Detox e em dois dias o peso saiu. Dormi a noite inteira, e naquela mesma semana sonhei com a ligação da minha irmã antes de acontecer."
+
+É por isso que o Divine Detox existe.
+
+O Soul Flush solta. O Divine Detox carrega pra fora.
+
+A argila bentonita prende. O psyllium varre. E as ervas sagradas ajudam o seu corpo a deixar ir.
+
+Agora, você não precisa de seis meses de Divine Detox pra proteger o começo.
+
+[FP] Você precisa do começo coberto.
+
+A purificação do templo nos primeiros sete dias. E as semanas depois disso, quando a conexão com a fonte começa.
+
+É aí que a maior quantidade de resíduo sai do seu corpo.
+
+A maioria das mulheres que começa com 2 frascos volta pra pegar mais depois que sente a diferença.
+
+[FP] Mas volta protegida, com a crosta já fora, em vez de recomeçar do zero.
+
+Então eu pedi uma exceção pra minha equipe, só nesta página.
+
+Em vez de 3, 6 ou 10 frascos, você pode adicionar só 2 frascos de Divine Detox ao seu pedido.
+
+Não pelos 59 dólares por frasco do kit de 3 que você acabou de ver.
+
+Por 49 dólares o frasco. O mesmo preço por frasco do protocolo completo de 10 meses, em só 2 frascos.
+
+São 98 dólares em vez de 118. Você economiza 20 dólares antes mesmo de abrir a caixa.
+
+Com frete 100% grátis, porque eles vão dentro da caixa que você já pagou pra enviar.
+
+Menos de 2 dólares por dia pra garantir que os dois primeiros meses da sua limpeza andem pra frente em vez de ficar circulando dentro de você.
+
+[FP] Menos que a garrafa de água que eles enchem de flúor.
+
+Por que eu posso fazer isso?
+
+Porque a sua caixa de Soul Flush já está na fila.
+
+O processamento, o manuseio, a caixa, a etiqueta. Tudo pago.
+
+Adicionar dois frascos não nos custa nada além do produto. Então estou repassando essa economia pra você.
+
+Isso não é promoção. É o único jeito responsável que eu conheço de garantir que você não comece e trave no meio.
+
+E preciso ser honesta com você sobre mais uma coisa.
+
+Cada lote de Divine Detox é preparado em pequenas quantidades, com a mesma benção de limpeza que a minha avó me ensinou.
+
+Isso eu não consigo apressar.
+
+Então não posso prometer quando o próximo lote vai estar pronto. E não posso prometer que esse preço vai existir quando estiver.
+
+Você não vai receber essa oferta de novo. Nem por e-mail. Nem pelo suporte.
+
+A sua caixa já está na fila da próxima remessa.
+
+No momento em que for lacrada, esses frascos não podem mais entrar nela. E esse preço vai junto.
+
+[FP] A única coisa pior do que nunca sentir a sua ponte com Deus reabrir… é sentir reabrir, e depois sentir fechar de novo porque o seu corpo não conseguiu terminar o trabalho.
+
+Eu não quero ver isso acontecer com você.
+
+Esses dois frascos continuam cobertos pela Garantia da Benção de 180 dias.
+
+Se você não se sentir mais leve, mais clara e mais conectada, cada centavo volta pra você.
+
+[FP] Estou tirando todo o peso da responsabilidade dos seus ombros, igual fiz no seu primeiro pedido.
+
+Então é isso.
+
+Você pode começar o Soul Flush e deixar o seu corpo carregar anos de flúor pra fora sozinho, torcendo pra o peso passar e a crosta não assentar de volta…
+
+Ou pode adicionar só 2 frascos de Divine Detox, cobrir os dois primeiros meses, e deixar a limpeza acontecer do jeito que deveria.
+
+O Soul Flush solta. O Divine Detox tira pra fora.
+
+[FP] Você já sabe de qual vai se arrepender.
+
+Clique no botão abaixo e adicione 2 frascos ao seu pedido agora, antes da sua caixa ser lacrada.
+
+Eu garanto que eles vão na mesma caixa.
+
+---
+---
+
 ## VERSÃO SECUNDÁRIA — TSL (página)
 
 ### HEADLINE
