@@ -6,6 +6,7 @@
 **Quem fala:** Theresa, criadora da fórmula, mesma voz do UP1.
 **Estruturas usadas:** swipes de Gut Drops (TSL validada: "maybe X was too much", preço por frasco, "have had and lost it", frete, garantia) + DS2 validado (respeito à recusa, estágio que ela perde, oferta única, "não volta", benção da avó, "you already know which one you'll regret") + UP1 (mecanismo da segunda fase).
 **Frases de poder:** marcadas **[FP]**.
+**Rev 3 (pressão):** headline de perda, bloco de recalcificação, vilão de volta, âncora $59 → $49 com economia e frete grátis, prova social dos 2 frascos, urgência amarrada ao lacre da caixa com timer.
 
 ---
 ---
@@ -13,7 +14,8 @@
 ## VERSÃO 1 — TSL (página, principal)
 
 ### HEADLINE
-**WAIT! Before You Go… One Last Thing From Theresa**
+**WAIT! Your Soul Flush Order Isn't Protected Yet**
+**Don't Let The Fluoride You're About To Loosen Settle Right Back Onto Your Pineal Gland**
 
 ### SUB-HEADLINE
 **Maybe 3 Bottles of Divine Detox Was A Little Too Much Right Now?**
@@ -41,13 +43,31 @@ That's when you feel heavier instead of lighter. Low energy. Bloating. Restless 
 
 Some women assume Soul Flush isn't working. **[FP]** It's the opposite. It's working so well that the body can't keep up.
 
+And here's the part nobody warns you about.
+
+Fluoride that's been loosened but not carried out doesn't just sit there. It's still magnetically attracted to your pineal gland. Give it a few weeks with nowhere to go, and it settles right back where it came from.
+
+The crust rebuilds. The chills on the back of your neck stop. The radio in your head turns back on. The signs that were starting to appear go quiet again.
+
+**[FP]** Everything you just paid for drains away, one week at a time, and you don't even see it happening.
+
+**[FP]** And this is exactly what they count on. You start, you feel heavy, you quit, and the water does the rest.
+
 That's exactly why I created Divine Detox. Soul Flush breaks it loose. Divine Detox carries it out.
 
 And here's what I want you to understand: you don't need six months of Divine Detox to protect the beginning. You need the beginning covered.
 
+Most women who start with 2 bottles come back for more once they feel the difference. **[FP]** But they come back protected, with the crust gone, instead of starting over from zero.
+
 **So I asked my team for one exception.**
 
-Instead of 3, 6 or 10 bottles, you can add **just 2 bottles of Divine Detox** to your order right now, for **$49 per bottle.**
+Instead of 3, 6 or 10 bottles, you can add **just 2 bottles of Divine Detox** to your order right now.
+
+Not at the $59 per bottle from the 3-bottle kit you just saw.
+
+At **$49 per bottle**, the same price per bottle as the full 10-month protocol, on just 2 bottles. ~~$118~~ **$98 total**, and you save $20 before you've even opened the box.
+
+With **100% FREE SHIPPING**, because they go inside the box you already paid to ship.
 
 That's enough to cover the first two months, the purification of the temple and the beginning of the connection with the source, when the heaviest fluoride is leaving your body. So it moves out instead of circling around inside you.
 
@@ -95,7 +115,7 @@ These two bottles are protected by the same guarantee as your Soul Flush order. 
 
 **You now have two choices.**
 
-You can begin Soul Flush and leave your body to carry out years of fluoride on its own, hoping the heaviness passes…
+You can begin Soul Flush and leave your body to carry out years of fluoride on its own, hoping the heaviness passes and the crust doesn't settle back…
 
 Or you can add just 2 bottles of Divine Detox, cover the first two months, and let the cleanse move the way it's supposed to.
 
@@ -106,7 +126,9 @@ Soul Flush breaks it loose. Divine Detox flushes it out.
 ### [MOCKUP: 2 frascos + botão "Yes, Add 2 Bottles Of Divine Detox For $49 Each ($98 Total)"]
 ### [Link secundário: "No thanks, I understand this offer will not be shown again"]
 
-*This page is a one-time opportunity. There is no link back here, this offer will not be sent by email, and our support team can't apply it later. Once your box is sealed, it's gone.*
+### [TIMER: "Your box is scheduled to be sealed in: 09:59"]
+
+*This page is a one-time opportunity. Your Soul Flush box is already in line for the next shipment. The moment it's sealed, these two bottles can no longer go inside it, and this price goes with them. There is no link back here, this offer will not be sent by email, and our support team can't apply it later.*
 
 ---
 ---
@@ -114,7 +136,8 @@ Soul Flush breaks it loose. Divine Detox flushes it out.
 ## VERSÃO 1 — TSL (PT-BR, só pra revisão)
 
 ### HEADLINE
-**ESPERA! Antes de sair… uma última coisa da Theresa**
+**ESPERA! O seu pedido de Soul Flush ainda não está protegido**
+**Não deixe o flúor que você está prestes a soltar assentar de novo na sua pineal**
 
 ### SUB-HEADLINE
 **Talvez 3 frascos de Divine Detox tenha sido um pouco demais por agora?**
@@ -142,13 +165,31 @@ Anos de flúor soltos de uma vez, sem ter pra onde ir.
 
 Algumas mulheres acham que o Soul Flush não está funcionando. [FP] É o contrário. Está funcionando tão bem que o corpo não dá conta.
 
+E aqui está a parte que ninguém te avisa.
+
+O flúor que foi solto mas não foi carregado pra fora não fica parado. Ele continua magneticamente atraído pela sua pineal. Dê algumas semanas sem ter pra onde ir, e ele assenta de volta exatamente de onde saiu.
+
+A crosta se refaz. Os arrepios na nuca param. O rádio na sua cabeça liga de novo. Os sinais que estavam começando a aparecer ficam mudos outra vez.
+
+[FP] Tudo o que você acabou de pagar escorre, uma semana por vez, e você nem vê acontecendo.
+
+[FP] E é exatamente com isso que eles contam. Você começa, sente o peso, desiste, e a água faz o resto.
+
 Foi exatamente por isso que eu criei o Divine Detox. O Soul Flush solta. O Divine Detox carrega pra fora.
 
 E aqui está o que eu quero que você entenda: você não precisa de seis meses de Divine Detox pra proteger o começo. Você precisa do começo coberto.
 
+A maioria das mulheres que começa com 2 frascos volta pra pegar mais depois que sente a diferença. [FP] Mas volta protegida, com a crosta já fora, em vez de recomeçar do zero.
+
 **Então pedi uma exceção pra minha equipe.**
 
-Em vez de 3, 6 ou 10 frascos, você pode adicionar **só 2 frascos de Divine Detox** ao seu pedido agora, por **49 dólares o frasco.**
+Em vez de 3, 6 ou 10 frascos, você pode adicionar **só 2 frascos de Divine Detox** ao seu pedido agora.
+
+Não pelos 59 dólares por frasco do kit de 3 que você acabou de ver.
+
+Por **49 dólares o frasco**, o mesmo preço por frasco do protocolo completo de 10 meses, em só 2 frascos. ~~118~~ **98 dólares no total**, e você economiza 20 dólares antes mesmo de abrir a caixa.
+
+Com **FRETE 100% GRÁTIS**, porque eles vão dentro da caixa que você já pagou pra enviar.
 
 É o suficiente pra cobrir os dois primeiros meses, a purificação do templo e o começo da conexão com a fonte, quando o flúor mais pesado está saindo do seu corpo. Pra ele sair em vez de ficar circulando dentro de você.
 
@@ -196,7 +237,7 @@ Esses dois frascos estão protegidos pela mesma garantia do seu pedido de Soul F
 
 **Agora você tem duas escolhas.**
 
-Pode começar o Soul Flush e deixar o seu corpo carregar anos de flúor pra fora sozinho, torcendo pra o peso passar…
+Pode começar o Soul Flush e deixar o seu corpo carregar anos de flúor pra fora sozinho, torcendo pra o peso passar e a crosta não assentar de volta…
 
 Ou pode adicionar só 2 frascos de Divine Detox, cobrir os dois primeiros meses, e deixar a limpeza andar do jeito que deveria.
 
@@ -207,7 +248,9 @@ O Soul Flush solta. O Divine Detox tira pra fora.
 ### [MOCKUP: 2 frascos + botão "Sim, adicionar 2 frascos de Divine Detox por 49 cada (98 no total)"]
 ### [Link secundário: "Não, obrigada, entendo que essa oferta não vai aparecer de novo"]
 
-*Esta página é uma oportunidade única. Não tem link de volta, essa oferta não vai ser enviada por e-mail e o suporte não consegue aplicar depois. Depois que a sua caixa for lacrada, acabou.*
+### [TIMER: "Sua caixa está programada pra ser lacrada em: 09:59"]
+
+*Esta página é uma oportunidade única. A sua caixa de Soul Flush já está na fila da próxima remessa. No momento em que for lacrada, esses dois frascos não podem mais entrar nela, e esse preço vai junto. Não tem link de volta, essa oferta não vai ser enviada por e-mail e o suporte não consegue aplicar depois.*
 
 ---
 ---
@@ -230,7 +273,7 @@ And then, in week two or three, something strange happens. She feels heavier. Bl
 
 **[FP]** And she thinks it stopped working. It didn't. Her body is drowning in what was just released.
 
-Years of fluoride, loosened all at once, with nowhere to go. It doesn't disappear. It circulates. And until it leaves, the purification of your temple can't finish.
+Years of fluoride, loosened all at once, with nowhere to go. It doesn't disappear. It circulates. And here's what nobody warns you about: it's still magnetically attracted to your pineal gland. Give it a few weeks and it settles right back where it came from. The crust rebuilds. The radio turns back on. The signs go quiet. **[FP]** Everything you just paid for drains away one week at a time. And that's exactly what they count on. You start, you feel heavy, you quit, and the water does the rest.
 
 Karen wrote me after her second week: "Theresa, I almost stopped. I felt so heavy I thought it was making me worse. Then I added Divine Detox and in two days the weight lifted."
 
@@ -240,7 +283,7 @@ Now, you don't need six months of Divine Detox to protect the beginning. **[FP]*
 
 So I asked my team for one exception, only on this page.
 
-Instead of 3, 6 or 10 bottles, you can add just 2 bottles of Divine Detox to your order, for $49 per bottle. That's $98 total. Less than $2 a day to make sure the first two months of your cleanse move forward instead of circling inside you.
+Instead of 3, 6 or 10 bottles, you can add just 2 bottles of Divine Detox to your order. Not at $59 per bottle like the 3-bottle kit. At $49 per bottle, the same price as the full 10-month protocol, on just 2 bottles. $98 total instead of $118, with free shipping, because they go inside the box you already paid for. Less than $2 a day to make sure the first two months of your cleanse move forward instead of circling inside you. Most women who start with 2 bottles come back for more, but they come back protected, not starting over from zero.
 
 **[FP]** Less than the bottle of water they fill with fluoride.
 
@@ -250,7 +293,7 @@ This isn't a sale. It's the only responsible way I know to make sure you don't s
 
 And I have to be honest. Every batch of Divine Detox is prepared in small quantities, with the same cleansing blessing my grandmother taught me. I can't rush that. So I can't promise when the next batch will be ready, and I can't promise this price will exist when it is.
 
-You won't get this offer again. Not by email. Not through customer service. Once your box is sealed, it's gone.
+You won't get this offer again. Not by email. Not through customer service. Your box is already in line for the next shipment. The moment it's sealed, these bottles can't go inside it, and this price goes with them.
 
 **[FP]** The only thing worse than never feeling your bridge to God reopen… is feeling it reopen, and then feeling it close again because your body couldn't finish the job.
 
