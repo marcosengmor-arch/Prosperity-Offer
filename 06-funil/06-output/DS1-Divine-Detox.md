@@ -17,7 +17,7 @@
 
 ### SUB-HEADLINE
 **Maybe 3 Bottles of Divine Detox Was A Little Too Much Right Now?**
-**Pick Up Just 2 Bottles For The First 60 Days Of Your Cleanse, At The Lowest Price We Have Ever Offered: $49/bottle**
+**Pick Up Just 2 Bottles To Cover The First Two Months Of Your Cleanse, At The Lowest Price We Have Ever Offered: $49/bottle**
 
 ---
 
@@ -27,11 +27,11 @@ Look, I understand.
 
 You just made an important investment in Soul Flush, and adding a full 3, 6 or 10 month supply of Divine Detox on top of it may feel like a lot in one day.
 
-**[FP]** I respect that. And I'm not going to pretend otherwise.
+**[FP]** I respect that. As a friend, I'd never push you into something you're not ready for.
 
 But there's one thing I can't let happen without saying something first.
 
-Because the moment Soul Flush starts breaking the fluoride crust off your pineal gland, the first 60 days are when the most buildup is released into your body.
+Because the moment the hyssop starts breaking the fluoride crust off your pineal gland, in the first seven days of the purification of the temple, and then through the following weeks as the connection with the source begins, that's when the most buildup is released into your body. The first two months carry the heaviest load.
 
 **[FP]** This is the part that gets women stuck.
 
@@ -49,11 +49,15 @@ And here's what I want you to understand: you don't need six months of Divine De
 
 Instead of 3, 6 or 10 bottles, you can add **just 2 bottles of Divine Detox** to your order right now, for **$49 per bottle.**
 
-That's enough to cover the first 60 days, when the heaviest fluoride is leaving your body, so the purification of your temple moves forward instead of circling around inside you.
+That's enough to cover the first two months, the purification of the temple and the beginning of the connection with the source, when the heaviest fluoride is leaving your body. So it moves out instead of circling around inside you.
 
 That's less than $2 a day to protect the decision you've already made.
 
 **[FP]** Less than the bottle of water they fill with fluoride.
+
+Listen to what Karen wrote me after her second week:
+
+*"Theresa, I almost stopped. I felt so heavy and bloated I thought Soul Flush was making me worse. Then I added Divine Detox and in two days the weight lifted. I slept through the night, and that same week I dreamed about my sister's call before it happened."*
 
 ### [MOCKUP: 2 frascos de Divine Detox ao lado de Soul Flush + botão "Add 2 Bottles For $49 Each"]
 ### [Botão secundário: "No thanks, I'll let my body handle the released fluoride on its own"]
@@ -85,7 +89,7 @@ I don't want to see that happen to you.
 
 These two bottles are protected by the same guarantee as your Soul Flush order. If you don't feel lighter, clearer and more connected, you'll receive every cent back, no questions asked, for up to 180 days.
 
-**[FP]** The risk is on me. The decision is on you.
+**[FP]** I'm taking all the weight of the responsibility off your shoulders, just like I did with your first order.
 
 ---
 
@@ -93,7 +97,7 @@ These two bottles are protected by the same guarantee as your Soul Flush order. 
 
 You can begin Soul Flush and leave your body to carry out years of fluoride on its own, hoping the heaviness passes…
 
-Or you can add just 2 bottles of Divine Detox, cover the first 60 days, and let the cleanse move the way it's supposed to.
+Or you can add just 2 bottles of Divine Detox, cover the first two months, and let the cleanse move the way it's supposed to.
 
 Soul Flush breaks it loose. Divine Detox flushes it out.
 
@@ -114,7 +118,7 @@ Soul Flush breaks it loose. Divine Detox flushes it out.
 
 ### SUB-HEADLINE
 **Talvez 3 frascos de Divine Detox tenha sido um pouco demais por agora?**
-**Leve só 2 frascos pros primeiros 60 dias da sua limpeza, pelo menor preço que já oferecemos: 49 dólares o frasco**
+**Leve só 2 frascos pra cobrir os dois primeiros meses da sua limpeza, pelo menor preço que já oferecemos: 49 dólares o frasco**
 
 ---
 
@@ -124,11 +128,11 @@ Olha, eu entendo.
 
 Você acabou de fazer um investimento importante no Soul Flush, e colocar em cima dele um suprimento de 3, 6 ou 10 meses de Divine Detox pode parecer muita coisa num dia só.
 
-[FP] Eu respeito isso. E não vou fingir o contrário.
+[FP] Eu respeito isso. Como amiga, eu nunca te empurraria pra algo pra que você não está pronta.
 
 Mas tem uma coisa que eu não posso deixar acontecer sem dizer antes.
 
-Porque no momento em que o Soul Flush começa a quebrar a crosta de flúor da sua pineal, os primeiros 60 dias são quando a maior quantidade de resíduo é liberada no seu corpo.
+Porque no momento em que o hissopo começa a quebrar a crosta de flúor da sua pineal, nos primeiros sete dias da purificação do templo, e depois ao longo das semanas seguintes enquanto a conexão com a fonte começa, é quando a maior quantidade de resíduo é liberada no seu corpo. Os dois primeiros meses carregam a carga mais pesada.
 
 [FP] É nessa parte que as mulheres travam.
 
@@ -146,11 +150,15 @@ E aqui está o que eu quero que você entenda: você não precisa de seis meses 
 
 Em vez de 3, 6 ou 10 frascos, você pode adicionar **só 2 frascos de Divine Detox** ao seu pedido agora, por **49 dólares o frasco.**
 
-É o suficiente pra cobrir os primeiros 60 dias, quando o flúor mais pesado está saindo do seu corpo, pra purificação do seu templo andar pra frente em vez de ficar circulando dentro de você.
+É o suficiente pra cobrir os dois primeiros meses, a purificação do templo e o começo da conexão com a fonte, quando o flúor mais pesado está saindo do seu corpo. Pra ele sair em vez de ficar circulando dentro de você.
 
 É menos de 2 dólares por dia pra proteger a decisão que você já tomou.
 
 [FP] Menos que a garrafa de água que eles enchem de flúor.
+
+Ouça o que a Karen me escreveu depois da segunda semana:
+
+*"Theresa, eu quase parei. Me sentia tão pesada e inchada que achei que o Soul Flush estava me fazendo mal. Aí adicionei o Divine Detox e em dois dias o peso saiu. Dormi a noite inteira, e naquela mesma semana sonhei com a ligação da minha irmã antes de acontecer."*
 
 ### [MOCKUP: 2 frascos de Divine Detox ao lado do Soul Flush + botão "Adicionar 2 frascos por 49 cada"]
 ### [Botão secundário: "Não, obrigada, vou deixar meu corpo lidar com o flúor liberado sozinho"]
@@ -182,7 +190,7 @@ Eu não quero ver isso acontecer com você.
 
 Esses dois frascos estão protegidos pela mesma garantia do seu pedido de Soul Flush. Se você não se sentir mais leve, mais clara e mais conectada, recebe cada centavo de volta, sem perguntas, por até 180 dias.
 
-[FP] O risco é meu. A decisão é sua.
+[FP] Estou tirando todo o peso da responsabilidade dos seus ombros, igual fiz no seu primeiro pedido.
 
 ---
 
@@ -190,7 +198,7 @@ Esses dois frascos estão protegidos pela mesma garantia do seu pedido de Soul F
 
 Pode começar o Soul Flush e deixar o seu corpo carregar anos de flúor pra fora sozinho, torcendo pra o peso passar…
 
-Ou pode adicionar só 2 frascos de Divine Detox, cobrir os primeiros 60 dias, e deixar a limpeza andar do jeito que deveria.
+Ou pode adicionar só 2 frascos de Divine Detox, cobrir os dois primeiros meses, e deixar a limpeza andar do jeito que deveria.
 
 O Soul Flush solta. O Divine Detox tira pra fora.
 
@@ -224,9 +232,11 @@ And then, in week two or three, something strange happens. She feels heavier. Bl
 
 Years of fluoride, loosened all at once, with nowhere to go. It doesn't disappear. It circulates. And until it leaves, the purification of your temple can't finish.
 
+Karen wrote me after her second week: "Theresa, I almost stopped. I felt so heavy I thought it was making me worse. Then I added Divine Detox and in two days the weight lifted."
+
 That's why Divine Detox exists. Soul Flush breaks it loose. Divine Detox carries it out. Bentonite clay binds it, psyllium sweeps it, and the sacred herbs help your body let it go.
 
-Now, you don't need six months of Divine Detox to protect the beginning. **[FP]** You need the beginning covered. The first 60 days are when the heaviest buildup leaves your body.
+Now, you don't need six months of Divine Detox to protect the beginning. **[FP]** You need the beginning covered. The purification of the temple in the first seven days, and the weeks after it when the connection with the source begins. That's when the heaviest buildup leaves your body.
 
 So I asked my team for one exception, only on this page.
 
@@ -246,11 +256,11 @@ You won't get this offer again. Not by email. Not through customer service. Once
 
 These two bottles are still covered by the 180-Day Blessing Guarantee. If you don't feel lighter, clearer and more connected, every cent comes back to you.
 
-**[FP]** The risk is on me. The decision is on you.
+**[FP]** I'm taking all the weight of the responsibility off your shoulders, just like I did with your first order.
 
 So here it is. You can begin Soul Flush and leave your body to carry out years of fluoride on its own, hoping the heaviness passes.
 
-Or you can add just 2 bottles of Divine Detox, cover the first 60 days, and let the cleanse happen the way it was meant to.
+Or you can add just 2 bottles of Divine Detox, cover the first two months, and let the cleanse happen the way it was meant to.
 
 Soul Flush breaks it loose. Divine Detox flushes it out.
 
@@ -264,7 +274,7 @@ Click the button below and add 2 bottles to your order now. I'll make sure they 
 ## NOTAS DE DECISÃO
 
 - **Preço e quantidade:** premissa de 2 fr a $49. Alternativas que a copy aceita trocando só os números: 1 fr a $49 (mais barato, menos receita) ou 2 fr a $44 ($88, igual ao preço de 3 fr de Soul Flush no UP2, pode confundir). Não recomendo 3 fr a preço menor, porque canibaliza o UP1.
-- **Por que "60 dias" e não "7 dias":** o UP1 vende o Divine Detox como segunda fase da limpeza inteira. Se o DS1 prometesse só 7 dias, o produto pareceria desnecessário depois. "Primeiros 60 dias, quando a maior quantidade de resíduo sai" cria uma razão lógica pra 2 frascos e deixa espaço pra recompra.
+- **Por que "dois primeiros meses":** amarrado aos estágios da VSL (Estágio 1, 7 dias de purificação do templo; Estágio 2, semanas seguintes de conexão com a fonte). Dá razão lógica pra 2 frascos sem inventar marco novo e deixa espaço pra recompra.
 - **Botão de recusa:** nos swipes de Gut Drops não aparece. Deixei um link secundário com texto de custo ("vou deixar meu corpo lidar sozinho"), padrão em downsell. Se a Digistore exigir só o "no thanks" neutro, troca.
 - **Mockups:** 2 pontos de mockup e botão, como nos swipes de Gut Drops, um no meio e um no fim.
 - **Congruência:** mesmo vocabulário do UP1 (solta / carrega pra fora, bentonita, psyllium, benção da avó, lote pequeno, caixa já na fila, garantia 180 dias). Nenhum argumento novo sobre o produto, só a quantidade e o preço mudam.
