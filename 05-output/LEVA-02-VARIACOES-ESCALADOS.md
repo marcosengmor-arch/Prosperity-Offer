@@ -1,5 +1,5 @@
 # LEVA 02 — 3 VARIAÇÕES DE ADS ESCALADOS (3 hooks cada)
-Regra: body do ad escalado intacto. Muda uma variável por peça (formato ou avatar). Host fala no máximo 3 vezes e nunca adiciona informação nova, só repete o hook ou a transição que já existe no body. Hooks derivados dos validados: **[literal]**, **[1-2 palavras]** ou **[ângulo]**. Frases de poder já existentes nos bodies foram mantidas; não acrescentei novas pra não alterar o validado.
+Regra: body do ad escalado intacto. Muda uma variável por peça (formato ou avatar). Nas peças de podcast/talk show (S2, B4-1), o body vira diálogo na cadência do swipe `04-pesquisa/SWIPE-PODCAST-CADENCIA.md`, em metade da intensidade: host entra ~10 vezes como objeção em voz alta, repete números, reage curto e assume o CTA. As frases validadas do body ficam intactas; o host nunca adiciona informação nova. Hooks derivados dos validados: **[literal]**, **[1-2 palavras]** ou **[ângulo]**. Frases de poder já existentes nos bodies foram mantidas; não acrescentei novas pra não alterar o validado.
 
 | Peça | Base | Variável | Avatar | Host |
 |---|---|---|---|---|
@@ -34,47 +34,93 @@ TERESA: That's what I'm here to fix.
 FALLON: You're not going to believe what happened to my next guest this morning. The Rockefeller family is suspected of setting fire to her car, just hours after she revealed a simple home trick that activates anyone's third eye in 15 seconds. Theresa Caputo, everybody.
 > PT: FALLON: Vocês não vão acreditar no que aconteceu com a minha próxima convidada hoje de manhã. A família Rockefeller é suspeita de incendiar o carro dela, poucas horas depois de ela revelar um truque caseiro simples que ativa o terceiro olho de qualquer pessoa em 15 segundos. Theresa Caputo, pessoal.
 
-## Body S2 (EN) — SD02 intacto, com 3 falas do host
+## Body + CTA S2 (EN) — SD02 em diálogo. Todas as frases validadas do body estão aqui, só com cadência de conversa. Fallon entra 11 vezes; a convidada mantém as frases-chave intactas.
 
-TERESA: I'm here to teach you how to open your third eye in 15 seconds.
+[Fallon] Okay, so you told my producer it took you three years to open your third eye, and you're gonna do it for everyone here in two minutes?
 
-When you close your eyes and all you see is darkness, that means your pineal gland, your third eye, isn't active. This hidden eye is known in science as the pineal gland. When you activate it, you wake up almost superhuman abilities. All the ones you've heard about: manifestation, reading the energy in a room, knowing what decisions to make, the law of attraction.
+[Teresa] Two minutes. Honestly? I'm gonna teach you how to open your third eye in 15 seconds.
 
-FALLON (host 1): So what happens when it's actually working?
+[Fallon] Fifteen seconds.
 
-TERESA: When you reach that level, you'll know your pineal gland is working better because it's like a radio antenna for the universe. You can send information and you can also receive it. But if your gland is hard as a rock, it won't work right.
+[Teresa] Fifteen. But first, close your eyes. Everybody, close your eyes. If all you see is darkness, right, no light, no images, that means your pineal gland, your third eye, isn't active.
 
-FALLON (host 2): And how do you un-rock it?
+[Fallon] It's just… black.
 
-TERESA: To activate it, you only need an ancient 15-second ritual. It's how I gained fame, wealth, and helped over 77,000 women with my gift of clairvoyance. My family figured out how to activate it more than 500 years ago, and we helped other families do the same. Like the Rockefeller family, the Trump family, and hundreds of other people almost nobody knows, but who control most people.
+[Teresa] It's just black. That's most of this room. This hidden eye is known in science as the pineal gland. And when you activate it, you wake up almost superhuman abilities. All the ones you've heard about. Manifestation. Reading the energy in a room. Knowing what decisions to make. The law of attraction.
 
-FALLON (host 3): Wait. The Rockefellers?
+[Fallon] Like, actually knowing?
 
-TERESA: The Rockefellers.
+[Teresa] Actually knowing. Because when you reach that level, your pineal gland is like a radio antenna for the universe. You can send information, and you can also receive it. But if your gland is hard as a rock, it won't work right. Nothing gets through.
 
-## CTA S2 (EN) — idêntico ao SD02, Teresa direto pra câmera
+[Fallon] Okay, so how do you un-rock it?
 
-Recently, I recorded a short video showing exactly how to do this ancient 15-second ritual to activate your third eye today. Normally, this video costs $97 per view. But to celebrate the 19,000 people who activated their third eye in 2025, I'm making this step-by-step video free for the next 24 hours. The government has already asked platforms three times to take this video down, and it's almost certain the next removal will be permanent. So the best advice I can give you right now is: stop what you're doing and click the button below to learn today how to activate your third eye.
+[Teresa] An ancient 15-second ritual. That's it. That's how I gained fame, wealth, and helped over 77,000 women with my gift of clairvoyance. My family figured out how to activate it more than 500 years ago.
+
+[Fallon] Five hundred years.
+
+[Teresa] Five hundred. And we helped other families do the same. The Rockefeller family. The Trump family. Hundreds of other people almost nobody knows, but who control most people.
+
+[Fallon] Wait. The Rockefellers know about this?
+
+[Teresa] The Rockefellers pay a fortune to keep it quiet.
+
+[Fallon] Okay. So where does someone actually see this ritual?
+
+[Teresa] I recorded a short video. Exactly how to do the 15-second ritual, step by step, to activate your third eye today. Normally that video costs $97 per view.
+
+[Fallon] Ninety-seven dollars.
+
+[Teresa] But to celebrate the 19,000 people who activated their third eye in 2025, I'm making it free for the next 24 hours.
+
+[Fallon] Okay, I'm putting the link below. But I have to say this. The government has already asked the platforms three times to take this video down, and it's almost certain the next removal will be permanent. So if you see the button, click it right now. Don't save it for later.
+
+[Teresa] Do it while it's still up.
+
+[Fallon] Stop what you're doing and click the button below to learn today how to activate your third eye.
 
 ## Body + CTA S2 (PT)
 
-TERESA: Eu estou aqui pra te ensinar a abrir o seu terceiro olho em 15 segundos.
+[Fallon] Tá, então você disse pro meu produtor que levou três anos pra abrir o seu terceiro olho, e vai fazer isso pra todo mundo aqui em dois minutos?
 
-Quando você fecha os olhos e só vê escuridão, significa que a sua glândula pineal, o seu terceiro olho, não está ativa. Esse olho escondido é conhecido na ciência como glândula pineal. Quando você ativa, acorda habilidades quase sobre-humanas. Todas as que você já ouviu falar: manifestação, ler a energia de uma sala, saber que decisão tomar, a lei da atração.
+[Teresa] Dois minutos. Sinceramente? Eu vou te ensinar a abrir o seu terceiro olho em 15 segundos.
 
-FALLON (host 1): E o que acontece quando ela está funcionando de verdade?
+[Fallon] Quinze segundos.
 
-TERESA: Quando você chega nesse nível, vai saber que a sua pineal está funcionando melhor porque ela é como uma antena de rádio pro universo. Você envia informação e também recebe. Mas se a sua glândula está dura como pedra, não funciona direito.
+[Teresa] Quinze. Mas primeiro, fecha os olhos. Todo mundo, fecha os olhos. Se tudo o que você vê é escuridão, né, sem luz, sem imagens, significa que a sua glândula pineal, o seu terceiro olho, não está ativa.
 
-FALLON (host 2): E como tira a pedra?
+[Fallon] É só… preto.
 
-TERESA: Pra ativar, você só precisa de um ritual ancestral de 15 segundos. Foi assim que eu ganhei fama, riqueza e ajudei mais de 77.000 mulheres com o meu dom de clarividência. A minha família descobriu como ativar há mais de 500 anos, e ajudamos outras famílias a fazer o mesmo. Como a família Rockefeller, a família Trump e centenas de outras pessoas que quase ninguém conhece, mas que controlam a maioria.
+[Teresa] É só preto. Isso é a maior parte dessa plateia. Esse olho escondido é conhecido na ciência como glândula pineal. E quando você ativa, acorda habilidades quase sobre-humanas. Todas as que você já ouviu falar. Manifestação. Ler a energia de uma sala. Saber que decisão tomar. A lei da atração.
 
-FALLON (host 3): Espera. Os Rockefeller?
+[Fallon] Tipo, saber de verdade?
 
-TERESA: Os Rockefeller.
+[Teresa] Saber de verdade. Porque quando você chega nesse nível, a sua pineal é como uma antena de rádio pro universo. Você envia informação e também recebe. Mas se a sua glândula está dura como pedra, não funciona direito. Nada passa.
 
-Recentemente, gravei um vídeo curto mostrando exatamente como fazer esse ritual ancestral de 15 segundos pra ativar o seu terceiro olho hoje. Normalmente esse vídeo custa 97 dólares por acesso. Mas pra celebrar as 19.000 pessoas que ativaram o terceiro olho em 2025, estou liberando esse passo a passo de graça pelas próximas 24 horas. O governo já pediu três vezes pras plataformas derrubarem esse vídeo, e é quase certo que a próxima remoção será permanente. Então o melhor conselho que eu posso te dar agora é: pare o que você está fazendo e clique no botão abaixo pra aprender hoje como ativar o seu terceiro olho.
+[Fallon] Tá, e como tira a pedra?
+
+[Teresa] Um ritual ancestral de 15 segundos. Só isso. Foi assim que eu ganhei fama, riqueza e ajudei mais de 77.000 mulheres com o meu dom de clarividência. A minha família descobriu como ativar há mais de 500 anos.
+
+[Fallon] Quinhentos anos.
+
+[Teresa] Quinhentos. E ajudamos outras famílias a fazer o mesmo. A família Rockefeller. A família Trump. Centenas de outras pessoas que quase ninguém conhece, mas que controlam a maioria.
+
+[Fallon] Espera. Os Rockefeller sabem disso?
+
+[Teresa] Os Rockefeller pagam uma fortuna pra manter isso em silêncio.
+
+[Fallon] Tá. E onde a pessoa vê esse ritual?
+
+[Teresa] Eu gravei um vídeo curto. Exatamente como fazer o ritual de 15 segundos, passo a passo, pra ativar o seu terceiro olho hoje. Normalmente esse vídeo custa 97 dólares por acesso.
+
+[Fallon] Noventa e sete dólares.
+
+[Teresa] Mas pra celebrar as 19.000 pessoas que ativaram o terceiro olho em 2025, estou liberando de graça pelas próximas 24 horas.
+
+[Fallon] Tá, estou deixando o link abaixo. Mas preciso dizer uma coisa. O governo já pediu três vezes pras plataformas derrubarem esse vídeo, e é quase certo que a próxima remoção será permanente. Então se você está vendo o botão, clica agora. Não deixa pra depois.
+
+[Teresa] Faz enquanto ainda está no ar.
+
+[Fallon] Pare o que você está fazendo e clique no botão abaixo pra aprender hoje como ativar o seu terceiro olho.
 
 ---
 ---
@@ -101,91 +147,93 @@ ROGAN: Two hundred bucks. Okay, what are the signs?
 ROGAN: Three bizarre signs your pineal gland is active and you didn't realize it. That's the title of this episode. Go.
 > PT: ROGAN: Três sinais bizarros de que a sua glândula pineal está ativa e você não percebeu. Esse é o título desse episódio. Vai.
 
-## Body B4-1 (EN) — B04 intacto, com 3 falas do host
+## Body + CTA B4-1 (EN) — B04 em diálogo. Frases validadas intactas, cadência de conversa. Rogan entra 10 vezes, curto e cético.
 
-TRACI: Give me 40 seconds and I'll show you how you can open your third eye. This is gonna go viral.
+[Rogan] Okay, so you wrote here: three weird signs your third eye is already open and you didn't even realize it. What are they?
 
-I spent three years trying to open my third eye before I learned this dirty little secret nobody had ever explained to me.
+[Traci] Okay, so give me 40 seconds. The first thing, right, is when you close your eyes and all you see is darkness. That means your third eye still isn't active. That's the test. Harvard calls this hidden eye the pineal gland.
 
-When you close your eyes and all you see is darkness, it means your third eye still isn't active. Harvard calls this hidden eye the pineal gland. When it awakens, people describe superhuman abilities that sound almost impossible: manifesting desires, wealth, reading the energy in a room and knowing when someone is lying.
+[Rogan] Harvard calls it that.
 
-ROGAN (host 1): Hold on. Knowing when someone is lying?
+[Traci] Harvard. And when it awakens, people describe these superhuman abilities that sound almost impossible. Manifesting desires. Wealth. Reading the energy in a room. Knowing when someone is lying.
 
-TRACI: The easiest way to understand it is like a radio antenna connected to the universe. When the signal is working, you can send and receive. But when your pineal gland is blocked, it's like the antenna has gone silent.
+[Rogan] Hold on. Knowing when someone is lying?
 
-That's why I became obsessed when I discovered an ancient 15-second ritual created to wake it back up.
+[Traci] Knowing. And look, I spent three years trying to open mine before I learned this dirty little secret nobody had ever explained to me. The easiest way to understand it is like a radio antenna connected to the universe. When the signal's working, you send and you receive. But when your pineal gland is blocked, it's like the antenna has gone silent.
 
-Something bizarre happened! After three days of manifesting work, a video from a famous Long Island medium teaching this ritual just popped up out of the blue.
+[Rogan] So how'd you unblock it?
 
-ROGAN (host 2): Out of the blue. Okay.
+[Traci] So this is the part. I became obsessed when I discovered there's an ancient 15-second ritual created to wake it back up. And then something bizarre happened. After three days of manifesting work, a video from a famous Long Island medium teaching this exact ritual just pops up. Out of the blue.
 
-TRACI: This ritual is behind her fame, wealth, and gift of clairvoyance. Her family discovered the ritual more than 500 years ago and secretly shared it with powerful families that control the world, like the Rockefellers, and people most of us will never hear about. This secret knowledge was reserved for people ordinary families could never reach.
+[Rogan] Out of the blue.
 
-Now I'm gonna blow your mind.
+[Traci] Out of the blue. And this ritual is behind her fame, her wealth, her gift of clairvoyance. Her family discovered it more than 500 years ago and secretly shared it with powerful families that control the world. The Rockefellers. People most of us will never hear about.
 
-ROGAN (host 3): Go ahead.
+[Rogan] So regular people never got this.
 
-## CTA B4-1 (EN) — idêntico ao B04, Traci pra câmera
+[Traci] Never. It was reserved for people ordinary families could never reach. And here's what's gonna blow your mind. I had a private reading with Theresa Caputo. And during the session she told me something I'll never forget. She saw in my path that I was meant to help other women reconnect with their intuition and spiritual gifts.
 
-TRACI: I had a private reading with Theresa Caputo, and during the session she told me what I'll never forget. She saw in my path that I was meant to help other women reconnect with their intuition and spiritual gifts.
+[Rogan] She told you that.
 
-She sent me a private link to a video she recorded, teaching her family's ancient 15-second ritual so I could share it only with my followers, completely free.
+[Traci] She told me that. And she sent me a private link to a video she recorded, teaching her family's ancient 15-second ritual, so I could share it only with my followers. Completely free. Normally access costs $197.
 
-Normally, access costs $197. But because she personally gave me permission to pass it on, you're getting access most people never see.
+[Rogan] A hundred and ninety-seven.
 
-So here it is, the most valuable gift I can share with you today. Tap the link below and go straight to Theresa's private video showing the 15-second ancestral ritual to awaken your third eye. She has helped more than 77,000 women.
+[Traci] But because she personally gave me permission to pass it on, people are getting access most never see. She's helped more than 77,000 women.
 
-Don't wait, the link is available only for the next 2 hours. Platforms have already been asked to take it down 4 times in the last 30 minutes. I suspect it's because of the sensitive content of the video teaching the ritual only powerful people know about.
+[Rogan] Okay, I'm putting the link below. But platforms have already been asked to take it down 4 times in the last 30 minutes. So if you see it, tap it right now. Don't overthink this. It's only up for the next 2 hours.
 
-So don't overthink this. Click the button below and watch the 15-second third-eye ritual while it's still available.
+[Traci] And look, I thought I'd feel nothing too. The first thing that changed was my intuition. I suddenly realized someone I trusted had been hiding the truth from me for years.
 
-Look, I thought I'd feel nothing too. But the first thing that changed was my intuition. I suddenly realized someone I trusted had been hiding the truth from me for years.
+[Rogan] So people can keep doing the same meditations…
 
-You can keep doing the same meditations and hoping something eventually changes… or spend only 15 seconds seeing why thousands of women are talking about this ritual.
+[Traci] …or spend 15 seconds seeing why thousands of women are talking about this ritual. If the button's still there, it's still up.
 
-Ignore this and you may never open your third eye, even trying for years.
+[Rogan] Tap the button below and watch the 15-second third-eye ritual while it's still available.
 
 ## Body + CTA B4-1 (PT)
 
-TRACI: Me dê 40 segundos e eu mostro como você pode abrir o seu terceiro olho. Isso vai viralizar.
+[Rogan] Tá, então você escreveu aqui: três sinais estranhos de que o seu terceiro olho já está aberto e você nem percebeu. Quais são?
 
-Passei três anos tentando abrir meu terceiro olho antes de aprender esse segredinho sujo que ninguém nunca tinha me explicado.
+[Traci] Tá, então me dá 40 segundos. A primeira coisa, né, é quando você fecha os olhos e só vê escuridão. Isso significa que o seu terceiro olho ainda não está ativo. Esse é o teste. Harvard chama esse olho escondido de glândula pineal.
 
-Quando você fecha os olhos e só vê escuridão, significa que o seu terceiro olho ainda não está ativo. Harvard chama esse olho escondido de glândula pineal. Quando ele desperta, as pessoas descrevem habilidades sobre-humanas que parecem impossíveis: manifestar desejos, riqueza, ler a energia de uma sala e saber quando alguém está mentindo.
+[Rogan] Harvard chama assim.
 
-ROGAN (host 1): Espera aí. Saber quando alguém está mentindo?
+[Traci] Harvard. E quando ele desperta, as pessoas descrevem essas habilidades sobre-humanas que parecem impossíveis. Manifestar desejos. Riqueza. Ler a energia de uma sala. Saber quando alguém está mentindo.
 
-TRACI: O jeito mais fácil de entender é como uma antena de rádio conectada ao universo. Quando o sinal funciona, você envia e recebe. Mas quando a sua pineal está bloqueada, é como se a antena tivesse ficado muda.
+[Rogan] Espera aí. Saber quando alguém está mentindo?
 
-Por isso eu fiquei obcecada quando descobri um ritual ancestral de 15 segundos criado pra acordar ela de novo.
+[Traci] Saber. E olha, eu passei três anos tentando abrir o meu antes de aprender esse segredinho sujo que ninguém nunca tinha me explicado. O jeito mais fácil de entender é como uma antena de rádio conectada ao universo. Quando o sinal funciona, você envia e recebe. Mas quando a sua pineal está bloqueada, é como se a antena tivesse ficado muda.
 
-Aconteceu uma coisa bizarra! Depois de três dias de trabalho de manifestação, um vídeo de uma médium famosa de Long Island ensinando esse ritual simplesmente apareceu do nada.
+[Rogan] E como você desbloqueou?
 
-ROGAN (host 2): Do nada. Tá.
+[Traci] Então, essa é a parte. Eu fiquei obcecada quando descobri que existe um ritual ancestral de 15 segundos criado pra acordar ela de novo. E aí aconteceu uma coisa bizarra. Depois de três dias de trabalho de manifestação, um vídeo de uma médium famosa de Long Island ensinando exatamente esse ritual simplesmente aparece. Do nada.
 
-TRACI: Esse ritual está por trás da fama, da riqueza e do dom de clarividência dela. A família dela descobriu o ritual há mais de 500 anos e compartilhou em segredo com famílias poderosas que controlam o mundo, como os Rockefeller, e pessoas de quem a maioria de nós nunca vai ouvir falar. Esse conhecimento secreto era reservado pra gente que famílias comuns nunca poderiam alcançar.
+[Rogan] Do nada.
 
-Agora eu vou explodir a sua cabeça.
+[Traci] Do nada. E esse ritual está por trás da fama dela, da riqueza, do dom de clarividência. A família dela descobriu há mais de 500 anos e compartilhou em segredo com famílias poderosas que controlam o mundo. Os Rockefeller. Gente de quem a maioria de nós nunca vai ouvir falar.
 
-ROGAN (host 3): Manda.
+[Rogan] Então gente comum nunca teve isso.
 
-TRACI: Eu fiz uma leitura particular com a Theresa Caputo, e durante a sessão ela me disse o que eu nunca vou esquecer. Ela viu no meu caminho que eu deveria ajudar outras mulheres a reconectar com a intuição e os dons espirituais.
+[Traci] Nunca. Era reservado pra gente que famílias comuns nunca poderiam alcançar. E aqui está o que vai explodir a sua cabeça. Eu fiz uma leitura particular com a Theresa Caputo. E durante a sessão ela me disse uma coisa que eu nunca vou esquecer. Ela viu no meu caminho que eu deveria ajudar outras mulheres a reconectar com a intuição e os dons espirituais.
 
-Ela me mandou um link privado de um vídeo que gravou ensinando o ritual ancestral de 15 segundos da família dela, pra eu compartilhar só com as minhas seguidoras, totalmente de graça.
+[Rogan] Ela te disse isso.
 
-Normalmente o acesso custa 197 dólares. Mas como ela pessoalmente me deu permissão pra repassar, você está recebendo um acesso que a maioria das pessoas nunca vê.
+[Traci] Ela me disse isso. E me mandou um link privado de um vídeo que gravou ensinando o ritual ancestral de 15 segundos da família dela, pra eu compartilhar só com as minhas seguidoras. Totalmente de graça. Normalmente o acesso custa 197 dólares.
 
-Então aqui está, o presente mais valioso que eu posso compartilhar com você hoje. Toque no link abaixo e vá direto pro vídeo privado da Theresa mostrando o ritual ancestral de 15 segundos pra despertar o seu terceiro olho. Ela já ajudou mais de 77.000 mulheres.
+[Rogan] Cento e noventa e sete.
 
-Não espere, o link está disponível só pelas próximas 2 horas. As plataformas já foram pedidas pra derrubar 4 vezes nos últimos 30 minutos. Eu suspeito que é por causa do conteúdo sensível do vídeo que ensina o ritual que só os poderosos conhecem.
+[Traci] Mas como ela pessoalmente me deu permissão pra repassar, as pessoas estão recebendo um acesso que a maioria nunca vê. Ela já ajudou mais de 77.000 mulheres.
 
-Então não pensa demais. Clique no botão abaixo e assista ao ritual do terceiro olho de 15 segundos enquanto ainda está disponível.
+[Rogan] Tá, estou deixando o link abaixo. Mas as plataformas já foram pedidas pra derrubar 4 vezes nos últimos 30 minutos. Então se você está vendo, toca agora. Não pensa demais. Só fica no ar pelas próximas 2 horas.
 
-Olha, eu também achei que não ia sentir nada. Mas a primeira coisa que mudou foi a minha intuição. De repente percebi que alguém em quem eu confiava estava escondendo a verdade de mim há anos.
+[Traci] E olha, eu também achei que não ia sentir nada. A primeira coisa que mudou foi a minha intuição. De repente percebi que alguém em quem eu confiava estava escondendo a verdade de mim há anos.
 
-Você pode continuar fazendo as mesmas meditações e torcendo pra algo mudar um dia… ou gastar só 15 segundos vendo por que milhares de mulheres estão falando desse ritual.
+[Rogan] Então a pessoa pode continuar fazendo as mesmas meditações…
 
-Ignore isso e você pode nunca abrir o seu terceiro olho, mesmo tentando por anos.
+[Traci] …ou gastar 15 segundos vendo por que milhares de mulheres estão falando desse ritual. Se o botão ainda está aí, ainda está no ar.
+
+[Rogan] Toque no botão abaixo e assista ao ritual do terceiro olho de 15 segundos enquanto ainda está disponível.
 
 ---
 ---
@@ -328,4 +376,4 @@ Se o vídeo ainda estiver disponível, assista até o fim. Pode ser exatamente o
 | B6-M-H2 | B06 | Avatar homem, UGC | "three years… medium at my cousin's wedding… two minutes" | H1 ângulo |
 | B6-M-H3 | B06 | Avatar homem, UGC | "If you don't wanna open your third eye, don't watch" | ADL01 literal |
 
-**Nota de produção:** nas peças com host, o cortador pode usar as 3 falas como pontos de corte pra inserts. Se a edição pedir menos interrupção, a fala 2 é a primeira a sair em cada uma (S2 "how do you un-rock it", B4-1 "out of the blue").
+**Nota de produção:** nas peças com host, cada fala dele é um ponto de corte pra insert. Se a edição pedir menos interrupção, as primeiras a sair são as repetições de número ("Fifteen seconds", "Five hundred years", "Harvard calls it that", "Out of the blue"), nunca as perguntas de virada nem o CTA.
