@@ -14,12 +14,9 @@
 ## VERSÃO PRINCIPAL — VSL (roteiro, Theresa falando)
 
 **Cena:** Theresa, mesma referência de edição dos upsells (pode acelerar 1,15x como no DS2). Inserts: 2 frascos de Divine Detox, caixa de Soul Flush na esteira, crosta assentando de volta.
-**Headline acima do vídeo:** WAIT! Your Soul Flush Order Isn't Protected Yet.
 **Abaixo do vídeo:** mockup de 2 frascos · **$98** · FREE SHIPPING · botão "Yes, Add 2 Bottles To My Order" · link "No thanks, I'll let my body handle the released fluoride on its own" · timer "Your box is scheduled to be sealed in 09:59" (se a Digistore aceitar).
 
 Wait. Don't close this page yet.
-
-Your Soul Flush order isn't protected yet.
 
 I understand.
 
@@ -47,7 +44,7 @@ Not the $177 for 3 bottles you just saw.
 
 Just 2 bottles at $49 each. The same price per bottle as the 6-month kit, without the 6-month commitment.
 
-That's $98 total. $79 less than the smallest kit you just saw. With free shipping, because they go inside the box you already paid to ship.
+That's $98 total. With free shipping, because they go inside the box you already paid to ship.
 
 **[FP]** Less than $2 a day. Less than the bottle of water they fill with fluoride.
 
@@ -80,8 +77,6 @@ Click the button below and add 2 bottles to your order now, before your box is s
 
 Espera. Não feche essa página ainda.
 
-O seu pedido de Soul Flush ainda não está protegido.
-
 Eu entendo.
 
 Você acabou de investir no Soul Flush, e um suprimento completo de 3, 6 ou 10 meses de Divine Detox no mesmo dia pareceu demais.
@@ -108,7 +103,7 @@ Não os 177 dólares por 3 frascos que você acabou de ver.
 
 Só 2 frascos a 49 dólares cada. O mesmo preço por frasco do kit de 6 meses, sem o compromisso de 6 meses.
 
-São 98 dólares no total. 79 dólares a menos que o menor kit que você acabou de ver. Com frete grátis, porque eles vão dentro da caixa que você já pagou pra enviar.
+São 98 dólares no total. Com frete grátis, porque eles vão dentro da caixa que você já pagou pra enviar.
 
 [FP] Menos de 2 dólares por dia. Menos que a garrafa de água que eles enchem de flúor.
 
@@ -140,8 +135,7 @@ Clique no botão abaixo e adicione 2 frascos ao seu pedido agora, antes da sua c
 ## VERSÃO SECUNDÁRIA — TSL (página)
 
 ### HEADLINE
-**WAIT! Your Soul Flush Order Isn't Protected Yet**
-**You Don't Have To Commit To The Full Protocol Today**
+**WAIT! You Don't Have To Commit To The Full Protocol Today**
 
 ### SUB-HEADLINE
 **Maybe 3 Bottles Of Divine Detox Was A Little Too Much Right Now?**
@@ -169,7 +163,7 @@ Because in the second and third week, the fluoride Soul Flush loosens has nowher
 
 You can start with just **2 bottles of Divine Detox**, enough to cover the first two months, when the heaviest fluoride is leaving your body.
 
-Not the $177 for 3 bottles you just saw. Just 2 bottles at **$49 each**, the same price per bottle as the 6-month kit, without the 6-month commitment. **$98 total**, $79 less than the smallest kit, with **100% FREE SHIPPING**, inside the box you already paid to ship.
+Not the $177 for 3 bottles you just saw. Just 2 bottles at **$49 each**, the same price per bottle as the 6-month kit, without the 6-month commitment. **$98 total**, with **100% FREE SHIPPING**, inside the box you already paid to ship.
 
 **[FP]** Less than $2 a day. Less than the bottle of water they fill with fluoride.
 
