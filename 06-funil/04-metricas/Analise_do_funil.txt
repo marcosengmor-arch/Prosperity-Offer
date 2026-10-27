@@ -1,0 +1,158 @@
+Análise do funil
+
+
+
+
+Análise de Funil — Soul Flush Drops (01 a
+25/10/2026)
+  ​Oct 26, 2026    · ​@Lucas
+
+
+Resumo
+O pós-venda do Soul Flush soma +31,7% em cima do front: ticket médio de $339,30 por
+cliente, contra $257,54 só no front. O UP1 é a principal alavanca e está convertendo 26,1%,
+abaixo dos ~37,5% históricos.
+
+A base é o export de transações da Digistore24 de 01 a 25/10/2026, com 504 pagamentos.
+Toda receita está em "Your earnings", o líquido depois das taxas e impostos. A etapa do
+funil foi identificada pelo sufixo do Order ID: sem sufixo é o front, 1 é o UP1, 2 é o UP2 e 3 é
+o DS2 (cadastrado como "DS1" na Digistore).
+
+
+Funil Soul Flush (272 vendas de front)
+
+   Etapa                       Compras   Taxa                     Receita    Receita por
+                                                                             cliente do front
+
+   Front (M1/M2/M3)            272       —                        $70.050    $257,54
+
+   UP1 Divine Detox            71        26,1%                    $15.691    $57,69
+
+   UP2 Soul Flush              40        14,7%                    $4.771     $17,54
+
+   DS2 (de 232 que             20        8,6%                     $1.779     $6,54
+   recusaram o UP2)
+
+   Total                       —         33,8% compram algo       $92.289    $339,30
+                                         depois do front
+
+
+O UP1 sozinho responde por 71% da receita de pós-venda.
+
+
+Estrutura e preços das etapas
+A estrutura foi inferida dos dados de venda e confirmada pela operação. O UP2 é
+oferecido a todos os compradores, tenham aceitado ou recusado o UP1. O DS2 é o
+downsell de quem recusa o UP2. As três opções do UP1 aparecem na mesma etapa.
+
+
+
+
+                                                                                          Page 1 of 3
+Análise do funil
+
+
+
+
+   Etapa                   Opções (ID Digistore)                             Preço líquido     Compras
+
+   Front                   M1 2 frascos (726150) · M2 3 frascos              $197 · $217 ·     17 · 27 ·
+                           (726151) · M3 6 frascos (726152)                  $297              228
+
+   UP1 Divine              3 frascos (726358) · 6 frascos (726359) · 10      $177 · $294 ·     37 · 23 · 11
+   Detox                   frascos (726360)                                  $351
+
+   UP2 Soul Flush          3 frascos (726363) · 6 frascos (726366) · 9       $88 · $140 ·      17 · 17 · 6
+                           frascos (726367)                                  $228
+
+   DS2 Soul Flush          2 frascos (726369)                                $98               20
+
+
+
+
+Observações
+UP1 abaixo do histórico. Converte 26,1%, contra ~37,5% no histórico, e vem caindo
+semana a semana. No Divine Purity, o UP1 com uma única oferta (DivineDetox 3 frascos a
+$217) converteu 36,6% (15/41). Hipótese: as 3 opções na página do Soul Flush estão
+travando a decisão. O mix do UP1 é 52% de 3 frascos, 32% de 6 e 15% de 10, com ticket
+médio de $221.
+
+UP2 depende de quem comprou o UP1. Converte 39,4% (28/71) entre quem comprou o
+UP1 e só 6,0% (12/201) entre quem recusou. Como o UP2 aparece para os dois grupos,
+essa diferença vem da oferta, não de visibilidade. Quem recusa o UP1 é 74% dos
+compradores do front e quase não compra mais nada.
+
+Downsell melhorou. O DS2 converte 8,6% de quem recusa o UP2, contra 2,5 a 2,8% antes,
+o que indica que o problema de tracking/redirect foi resolvido. Ele converte 25,6% (11/43)
+entre quem comprou o UP1 e recusou o UP2, e 4,8% (9/189) entre quem recusou os dois. O
+nome DS2 pressupõe um DS1 depois da recusa do UP1, mas nenhuma venda dele aparece
+nos dados. Ou ele não está no ar, ou teve 0 vendas em 201 recusas, o que apontaria para
+um problema de redirect.
+
+Kit do front pesa. O UP1 converte 28,1% em quem comprou M3, 18,5% em M2 e 11,8% em
+M1. Nenhum comprador de M1 levou UP2 ou DS2, mas a amostra é pequena (17 pedidos).
+
+
+  Semana           Vendas de front UP1    UP2      DS2 (de quem recusou o UP2) Ticket médio total
+
+  19 a 25/10 110                  23,6%   19,1%    6,7%                         $331,20
+
+  12 a 18/10       92             26,1%   13,0%    10,0%                        $345,66
+
+  05 a 11/10       70             30,0% 10,0% 9,5%                              $343,66
+
+
+
+
+                                                                                                       Page 2 of 3
+Análise do funil
+
+
+
+
+A alta do UP2 na última semana veio de quem já tinha comprado o UP1: a taxa nesse grupo
+subiu de 29% para 50%.
+
+
+Outras ofertas no período
+
+  Oferta                     Período      Vendas de   Taxa do   Ticket médio de   Ticket médio
+                                          front       UP1       front             total
+
+  Divine Purity              01 a         41          39%       $252,97           $350,18
+                             05/10
+
+  Soul Flush via SMS         11 a 25/10   20          10%       $213,76           $243,16
+  (recuperação)
+
+
+No Divine Purity, o segundo upsell converteu 17% e o downsell teve 1 venda. Na
+recuperação por SMS a baixa taxa de upsell é esperada, porque é um público que já
+hesitou uma vez.
+
+
+Próximos passos
+      Mapear na Digistore24 (conversion-cockpit/upsells de M1, M2 e M3) os links e o fluxo
+      do "sim" e do "não" de cada etapa
+      Confirmar se o DS1 (downsell do UP1) está no ar e se o redirect da recusa do UP1 leva
+      até ele; confirmar também se o M1 tem UP2/DS2 configurados
+      Testar o UP1 com oferta única, ou com uma opção em destaque, contra a página atual
+      com 3 opções
+      Testar um downsell de Divine Detox (1 a 2 frascos, mais barato) logo depois da recusa
+      do UP1
+      Cruzar com cliques e checkouts do RedTrack para calcular a conversão do front
+
+
+Limitações dos dados
+      O export só tem pagamentos, sem visitas, então não dá para calcular a conversão do
+      front.
+      As taxas de upsell assumem que todo comprador chega em cada página. Quem fecha o
+      navegador antes não aparece, então a taxa real por visualização é um pouco maior.
+      Não há reembolsos nem chargebacks no arquivo: os números são de venda, não da
+      safra consolidada em 90 dias.
+
+
+
+
+                                                                                            Page 3 of 3
+

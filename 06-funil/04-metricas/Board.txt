@@ -1,0 +1,95 @@
+Board
+
+
+
+
+Board — Funil Soul Flush
+  ​Oct 26, 2026   · ​@Lucas
+
+Na call ficou combinada esta ordem: primeiro estender o funil (DS1 e UP3), depois revisar
+o UP1, o UP2 e o DS2, e por último otimizar a VSL. O Marcos leva cerca de 1 dia por página e
+entrega de 2 a 3 ads por dia em paralelo. Na call também ficou confirmado que o DS1 não
+existe hoje: quem recusa o UP1 vai direto para o UP2.
+
+
+  Fase              Tarefa                      Responsável   Prazo            Status
+
+  0. Setup          Enviar doc de análise,      Lucas          ​Oct 26, 2026   ​ Feito
+                    links do funil e acesso à
+                    pasta "Funil Marcos" no
+                    Drive
+
+  0. Setup          Enviar as páginas atuais    Lucas          ​Oct 26, 2026   ​ Em andamento
+                    transcritas (UP1, UP2,      (equipe)
+                    DS2)
+
+  0. Setup          Dar acesso ao tracker       Lucas          ​Oct 27, 2026   ​ Não iniciado
+
+  1. Estender       Escrever o DS1              Marcos         ​Oct 27, 2026   ​ Não iniciado
+  o funil           (downsell para quem
+                    recusa o UP1)
+
+  1. Estender       Escrever o UP3              Marcos         ​Oct 28, 2026   ​ Não iniciado
+  o funil
+
+  1. Estender       Subir o DS1 e o UP3 e       A definir      ​Oct 29, 2026   ​ Não iniciado
+  o funil           configurar os redirects
+                    na Digistore
+
+  1. Estender       Back-redirect do            Marcos        A combinar       ​ Não iniciado
+  o funil           checkout
+
+  Ads               2 a 3 variações de ads      Marcos        Diário           ​ Em andamento
+  (paralelo)        por dia em cima dos ads
+                    validados de "pressão"
+
+  Ads               Subir os ads de pressão     Lucas          ​Oct 27, 2026   ​ Não iniciado
+  (paralelo)        já aprovados
+
+  2. Revisar o      Ajustes de detalhe no       Marcos         ​Oct 30, 2026   ​ Não iniciado
+  funil             UP1, UP2 e DS2
+
+
+
+
+                                                                                           Page 1 of 2
+Board
+
+
+
+
+  Fase         Tarefa                        Responsável   Prazo           Status
+
+  3. VSL       Medir a VSL atual             Lucas          ​Nov 2, 2026   ​ Não iniciado
+               (retenção, chegada ao
+               pitch, checkouts)
+
+  3. VSL       Micro leads                   Marcos         ​Nov 3, 2026   ​ Não iniciado
+
+  3. VSL       Edição                        Marcos         ​Nov 4, 2026   ​ Não iniciado
+
+  3. VSL       Bloco de oferta               Marcos         ​Nov 6, 2026   ​ Não iniciado
+
+
+
+
+Metas de referência
+O Marcos trouxe estas referências de nutra (memória e diabetes, em uma operação
+anterior). O Lucas acha o downsell difícil de bater.
+
+
+  Etapa       Hoje               Referência do Marcos
+
+  UP1         26,1%              30% a 35%
+
+  UP2         14,7%              20% a 25%
+
+  UP3         Não existe         17% a 18%
+
+  Downsells   DS2 com 8,6%       20% a 30%
+
+
+
+
+                                                                                       Page 2 of 2
+
