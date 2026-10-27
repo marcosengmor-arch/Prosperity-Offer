@@ -15,42 +15,47 @@
 
 **Cena:** Theresa, mesma referência de edição dos upsells (pode acelerar 1,15x como no DS2). Inserts: 2 frascos de Divine Detox, caixa de Soul Flush na esteira, crosta assentando de volta.
 **Abaixo do vídeo:** mockup de 2 frascos · **$98** · FREE SHIPPING · botão "Yes, Add 2 Bottles To My Order" · link "No thanks, I'll let my body handle the released fluoride on its own" · timer "Your box is scheduled to be sealed in 09:59" (se a Digistore aceitar).
+**Voz:** marcadores da Theresa em todas as peças: "Hey, it's me again", "my dear", "I can feel it", dever de guiar, avó, ponte com Deus, bênçãos, "the enemy gets a way back in", "in good conscience".
 
-Wait. Don't close this page yet.
+Hey, it's me again. Wait, don't close this page yet.
 
-I understand.
+I understand, my dear.
 
 You just invested in Soul Flush, and a full 3, 6 or 10-month supply of Divine Detox on the same day felt like too much.
 
 **[FP]** I respect that. As a friend, I'd never push you into something you're not ready for.
 
-But I'm not going to let you leave without a way to start.
+But as the creator of this formula, I feel it's my duty to guide you the right way. And I couldn't, in good conscience, let you leave without a way to start.
 
-Because I've seen what happens in the second and third week, when the fluoride Soul Flush loosens has nowhere to go.
+Because I've sat across from thousands of women, and I can feel when one of them is about to lose what she just found.
 
-You feel heavier instead of lighter. And that loosened fluoride is still attracted to your pineal gland. Give it a few weeks, and it settles right back where it came from.
+It happens in the second and third week. The hyssop starts breaking the fluoride crust off your pineal gland, and all of that buildup has nowhere to go.
 
-**[FP]** The crust rebuilds. The signs go quiet. And everything you just paid for drains away, one week at a time.
+You feel heavier instead of lighter. And that loosened fluoride is still drawn to your pineal gland. Give it a few weeks, and it settles right back where it came from.
 
-**[FP]** That's exactly what they count on. You start, you feel heavy, you quit.
+**[FP]** The crust rebuilds. The gray cloud comes back. The blessings that were starting to flow go quiet again.
+
+**[FP]** That's exactly what they count on. You start, you feel heavy, you quit. And the enemy gets a way back in.
+
+My grandmother used to say: you don't open the bridge to God halfway.
 
 So here's what I asked my team for.
 
 You don't have to commit to the full protocol today.
 
-You can start with just 2 bottles of Divine Detox. Enough to cover the first two months, when the heaviest fluoride is leaving your body.
+You can start with just 2 bottles of Divine Detox. Enough to carry you through the first two months, when the heaviest fluoride is leaving your body and the purification of your temple is at its most delicate.
 
 Not the $177 for 3 bottles you just saw.
 
 Just 2 bottles at $49 each. The same price per bottle as the 6-month kit, without the 6-month commitment.
 
-That's $98 total. With free shipping, because they go inside the box you already paid to ship.
+That's $98 total. With free shipping, because they go inside the box I'm already preparing for you.
 
 **[FP]** Less than $2 a day. Less than the bottle of water they fill with fluoride.
 
-Most women who start with 2 bottles come back for more once they feel the difference. **[FP]** But they come back protected, instead of starting over from zero.
+Most women who start with 2 bottles come back for more once they feel the difference. **[FP]** But they come back protected, with their bridge open, instead of starting over from zero.
 
-This is the smallest commitment Divine Detox has ever been offered at. And it only exists here, on this page.
+This is the smallest commitment I've ever been able to offer Divine Detox at. And it only exists here, on this page.
 
 Your box is already in line for the next shipment. The moment it's sealed, these 2 bottles can't go inside it, and this price goes with them.
 
@@ -58,58 +63,64 @@ You won't get this offer again. Not by email. Not through customer service.
 
 **[FP]** The only thing worse than never feeling your bridge to God reopen… is feeling it reopen, and then feeling it close again.
 
-These 2 bottles are still covered by the 180-Day Blessing Guarantee. If you don't feel lighter, clearer and more connected, every cent comes back to you.
+I don't want that for you, my dear.
+
+These 2 bottles are still covered by the 180-Day Blessing Guarantee. If you don't feel lighter, clearer and more connected to God, every cent comes back to you.
 
 So here it is.
 
-You can start Soul Flush and hope the crust doesn't settle back…
+You can start Soul Flush and pray the crust doesn't settle back…
 
-Or you can add just 2 bottles, start without committing to the full protocol, and protect the decision you already made.
+Or you can add just 2 bottles, start without committing to the full protocol, and protect the blessing you already said yes to.
 
 **[FP]** You already know which one you'll regret.
 
-Click the button below and add 2 bottles to your order now, before your box is sealed.
+Click the button below and add 2 bottles to your order now, before your box is sealed. I'll make sure they go in with my blessing.
 
 ---
 ---
 
 ## VERSÃO PRINCIPAL — VSL (PT-BR, só pra revisão)
 
-Espera. Não feche essa página ainda.
+Oi, sou eu de novo. Espera, não feche essa página ainda.
 
-Eu entendo.
+Eu entendo, querida.
 
 Você acabou de investir no Soul Flush, e um suprimento completo de 3, 6 ou 10 meses de Divine Detox no mesmo dia pareceu demais.
 
 [FP] Eu respeito isso. Como amiga, eu nunca te empurraria pra algo pra que você não está pronta.
 
-Mas não vou deixar você sair sem um jeito de começar.
+Mas como criadora dessa fórmula, sinto que é meu dever te guiar do jeito certo. E eu não poderia, em sã consciência, deixar você sair sem um jeito de começar.
 
-Porque eu já vi o que acontece na segunda e na terceira semana, quando o flúor que o Soul Flush solta não tem pra onde ir.
+Porque eu já sentei na frente de milhares de mulheres, e eu sinto quando uma delas está prestes a perder o que acabou de encontrar.
+
+Acontece na segunda e na terceira semana. O hissopo começa a quebrar a crosta de flúor da sua pineal, e todo esse resíduo não tem pra onde ir.
 
 Você se sente mais pesada em vez de mais leve. E esse flúor solto continua atraído pela sua pineal. Dê algumas semanas, e ele assenta de volta exatamente de onde saiu.
 
-[FP] A crosta se refaz. Os sinais ficam mudos. E tudo o que você acabou de pagar escorre, uma semana por vez.
+[FP] A crosta se refaz. A nuvem cinza volta. As bênçãos que estavam começando a fluir ficam mudas de novo.
 
-[FP] É exatamente com isso que eles contam. Você começa, sente o peso, desiste.
+[FP] É exatamente com isso que eles contam. Você começa, sente o peso, desiste. E o inimigo acha um caminho de volta.
+
+Minha avó dizia: a ponte com Deus não se abre pela metade.
 
 Então aqui está o que eu pedi pra minha equipe.
 
 Você não precisa se comprometer com o protocolo completo hoje.
 
-Você pode começar com só 2 frascos de Divine Detox. O suficiente pra cobrir os dois primeiros meses, quando o flúor mais pesado está saindo do seu corpo.
+Você pode começar com só 2 frascos de Divine Detox. O suficiente pra te carregar pelos dois primeiros meses, quando o flúor mais pesado está saindo do seu corpo e a purificação do seu templo está no ponto mais delicado.
 
 Não os 177 dólares por 3 frascos que você acabou de ver.
 
 Só 2 frascos a 49 dólares cada. O mesmo preço por frasco do kit de 6 meses, sem o compromisso de 6 meses.
 
-São 98 dólares no total. Com frete grátis, porque eles vão dentro da caixa que você já pagou pra enviar.
+São 98 dólares no total. Com frete grátis, porque eles vão dentro da caixa que eu já estou preparando pra você.
 
 [FP] Menos de 2 dólares por dia. Menos que a garrafa de água que eles enchem de flúor.
 
-A maioria das mulheres que começa com 2 frascos volta pra pegar mais depois que sente a diferença. [FP] Mas volta protegida, em vez de recomeçar do zero.
+A maioria das mulheres que começa com 2 frascos volta pra pegar mais depois que sente a diferença. [FP] Mas volta protegida, com a ponte aberta, em vez de recomeçar do zero.
 
-Esse é o menor compromisso pelo qual o Divine Detox já foi oferecido. E ele só existe aqui, nesta página.
+Esse é o menor compromisso pelo qual eu já consegui oferecer o Divine Detox. E ele só existe aqui, nesta página.
 
 A sua caixa já está na fila da próxima remessa. No momento em que for lacrada, esses 2 frascos não podem mais entrar nela, e esse preço vai junto.
 
@@ -117,17 +128,19 @@ Você não vai receber essa oferta de novo. Nem por e-mail. Nem pelo suporte.
 
 [FP] A única coisa pior do que nunca sentir a sua ponte com Deus reabrir… é sentir reabrir, e depois sentir fechar de novo.
 
-Esses 2 frascos continuam cobertos pela Garantia da Benção de 180 dias. Se você não se sentir mais leve, mais clara e mais conectada, cada centavo volta pra você.
+Eu não quero isso pra você, querida.
+
+Esses 2 frascos continuam cobertos pela Garantia da Benção de 180 dias. Se você não se sentir mais leve, mais clara e mais conectada com Deus, cada centavo volta pra você.
 
 Então é isso.
 
-Você pode começar o Soul Flush e torcer pra crosta não assentar de volta…
+Você pode começar o Soul Flush e rezar pra crosta não assentar de volta…
 
-Ou pode adicionar só 2 frascos, começar sem se comprometer com o protocolo completo, e proteger a decisão que você já tomou.
+Ou pode adicionar só 2 frascos, começar sem se comprometer com o protocolo completo, e proteger a bênção pra qual você já disse sim.
 
 [FP] Você já sabe de qual vai se arrepender.
 
-Clique no botão abaixo e adicione 2 frascos ao seu pedido agora, antes da sua caixa ser lacrada.
+Clique no botão abaixo e adicione 2 frascos ao seu pedido agora, antes da sua caixa ser lacrada. Eu garanto que eles vão junto, com a minha benção.
 
 ---
 ---
@@ -145,37 +158,39 @@ Clique no botão abaixo e adicione 2 frascos ao seu pedido agora, antes da sua c
 
 Hey, it's me again.
 
-I understand. A full 3, 6 or 10-month supply of Divine Detox on the same day felt like too much.
+I understand, my dear. A full 3, 6 or 10-month supply of Divine Detox on the same day felt like too much.
 
 **[FP]** I respect that. As a friend, I'd never push you into something you're not ready for.
 
-But I'm not going to let you leave without a way to start.
+But as the creator of this formula, I feel it's my duty to guide you the right way. And I couldn't, in good conscience, let you leave without a way to start.
 
-Because in the second and third week, the fluoride Soul Flush loosens has nowhere to go. You feel heavier instead of lighter. And that loosened fluoride is still attracted to your pineal gland. Give it a few weeks, and it settles right back.
+Because I've sat across from thousands of women, and I can feel when one of them is about to lose what she just found. It happens in the second and third week, when the fluoride the hyssop loosens has nowhere to go. You feel heavier instead of lighter. And that loosened fluoride is still drawn to your pineal gland. Give it a few weeks, and it settles right back.
 
-**[FP]** The crust rebuilds. The signs go quiet. And everything you just paid for drains away, one week at a time.
+**[FP]** The crust rebuilds. The gray cloud comes back. The blessings that were starting to flow go quiet again.
 
-**[FP]** That's exactly what they count on. You start, you feel heavy, you quit.
+**[FP]** That's exactly what they count on. You start, you feel heavy, you quit. And the enemy gets a way back in.
+
+My grandmother used to say: you don't open the bridge to God halfway.
 
 ### [MOCKUP: 2 frascos · $98 · FREE SHIPPING · botão "Yes, Add 2 Bottles To My Order"]
 
 **So here's what I asked my team for.**
 
-You can start with just **2 bottles of Divine Detox**, enough to cover the first two months, when the heaviest fluoride is leaving your body.
+You can start with just **2 bottles of Divine Detox**, enough to carry you through the first two months, when the heaviest fluoride is leaving your body and the purification of your temple is at its most delicate.
 
-Not the $177 for 3 bottles you just saw. Just 2 bottles at **$49 each**, the same price per bottle as the 6-month kit, without the 6-month commitment. **$98 total**, with **100% FREE SHIPPING**, inside the box you already paid to ship.
+Not the $177 for 3 bottles you just saw. Just 2 bottles at **$49 each**, the same price per bottle as the 6-month kit, without the 6-month commitment. **$98 total**, with **100% FREE SHIPPING**, inside the box I'm already preparing for you.
 
 **[FP]** Less than $2 a day. Less than the bottle of water they fill with fluoride.
 
-Most women who start with 2 bottles come back for more once they feel the difference. **[FP]** But they come back protected, instead of starting over from zero.
+Most women who start with 2 bottles come back for more once they feel the difference. **[FP]** But they come back protected, with their bridge open, instead of starting over from zero.
 
-This is the smallest commitment Divine Detox has ever been offered at, and it only exists on this page. Your box is already in line for the next shipment. The moment it's sealed, these 2 bottles can't go inside it, and this price goes with them. Not by email. Not through customer service.
+This is the smallest commitment I've ever been able to offer Divine Detox at, and it only exists on this page. Your box is already in line for the next shipment. The moment it's sealed, these 2 bottles can't go inside it, and this price goes with them. Not by email. Not through customer service.
 
-**[FP]** The only thing worse than never feeling your bridge to God reopen… is feeling it reopen, and then feeling it close again.
+**[FP]** The only thing worse than never feeling your bridge to God reopen… is feeling it reopen, and then feeling it close again. I don't want that for you, my dear.
 
-### [Garantia] **Still Covered By The 180-Day Blessing Guarantee.** If you don't feel lighter, clearer and more connected, every cent comes back to you.
+### [Garantia] **Still Covered By The 180-Day Blessing Guarantee.** If you don't feel lighter, clearer and more connected to God, every cent comes back to you.
 
-**You now have two choices.** Start Soul Flush and hope the crust doesn't settle back… or add just 2 bottles, start without committing to the full protocol, and protect the decision you already made.
+**You now have two choices.** Start Soul Flush and pray the crust doesn't settle back… or add just 2 bottles, start without committing to the full protocol, and protect the blessing you already said yes to.
 
 **[FP]** You already know which one you'll regret.
 
