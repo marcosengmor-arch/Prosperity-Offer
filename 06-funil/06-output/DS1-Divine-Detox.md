@@ -2,7 +2,7 @@
 
 **Posição no funil:** aparece pra quem recusou o UP1 (Divine Detox 3/6/10 frascos). Quem aceita ou recusa segue pro UP2.
 **Público:** 74% dos compradores do front. Acabou de ver o Divine Detox inteiro no UP1 (mecanismo, ingredientes, benção da avó, lote) e disse não. A objeção é preço e compromisso, não entendimento. Por isso o DS1 **não reapresenta o produto**: só reconhece a objeção e oferece o jeito de começar sem se comprometer.
-**Oferta:** 2 frascos de Divine Detox a $49 cada = $98 (vs $59/frasco no kit de 3 do UP1). Frete grátis, na mesma caixa. Garantia de 180 dias.
+**Oferta:** 2 frascos de Divine Detox a $49 cada = $98. Âncora: os $177 do kit de 3 do UP1 (total, que ela viu com certeza). $49 = preço por frasco do kit de 6 do UP1. Não dizer "menor preço": o kit de 10 sai a $35,10/frasco. Frete grátis, na mesma caixa. Garantia de 180 dias.
 **Quem fala:** Theresa. Tratamento de gênero "no meio", como UP2 e DS2.
 **Estruturas usadas:** DS2 validado (respeito à recusa, oferta única, "não volta", "you already know which one you'll regret") + swipe de Gut Drops ("maybe X was too much", menor preço, frete grátis, "have had and lost it").
 **Tamanho:** ~430 palavras, na faixa do DS2 (750) e do swipe de Gut Drops (450). Nada de mecanismo, ingredientes ou depoimento: tudo isso ela acabou de ouvir no UP1.
@@ -14,7 +14,7 @@
 ## VERSÃO PRINCIPAL — VSL (roteiro, Theresa falando)
 
 **Cena:** Theresa, mesma referência de edição dos upsells (pode acelerar 1,15x como no DS2). Inserts: 2 frascos de Divine Detox, caixa de Soul Flush na esteira, crosta assentando de volta.
-**Abaixo do vídeo:** mockup de 2 frascos · ~~$118~~ **$98** · FREE SHIPPING · botão "Yes, Add 2 Bottles To My Order" · link "No thanks, I'll let my body handle the released fluoride on its own" · timer "Your box is scheduled to be sealed in 09:59" (se a Digistore aceitar).
+**Abaixo do vídeo:** mockup de 2 frascos · **$98** · FREE SHIPPING · botão "Yes, Add 2 Bottles To My Order" · link "No thanks, I'll let my body handle the released fluoride on its own" · timer "Your box is scheduled to be sealed in 09:59" (se a Digistore aceitar).
 
 Wait. Don't close this page yet.
 
@@ -40,17 +40,17 @@ You don't have to commit to the full protocol today.
 
 You can start with just 2 bottles of Divine Detox. Enough to cover the first two months, when the heaviest fluoride is leaving your body.
 
-Not at $59 per bottle, like the 3-bottle kit you just saw.
+Not the $177 for 3 bottles you just saw.
 
-At $49 per bottle. The same price per bottle as the 10-month protocol, on just 2 bottles.
+Just 2 bottles at $49 each. The same price per bottle as the 6-month kit, without the 6-month commitment.
 
-That's $98 instead of $118. With free shipping, because they go inside the box you already paid to ship.
+That's $98 total. With free shipping, because they go inside the box you already paid to ship.
 
 **[FP]** Less than $2 a day. Less than the bottle of water they fill with fluoride.
 
 Most women who start with 2 bottles come back for more once they feel the difference. **[FP]** But they come back protected, instead of starting over from zero.
 
-This is the lowest price Divine Detox has ever been offered at. And it only exists here, on this page.
+This is the smallest commitment Divine Detox has ever been offered at. And it only exists here, on this page.
 
 Your box is already in line for the next shipment. The moment it's sealed, these 2 bottles can't go inside it, and this price goes with them.
 
@@ -99,17 +99,17 @@ Você não precisa se comprometer com o protocolo completo hoje.
 
 Você pode começar com só 2 frascos de Divine Detox. O suficiente pra cobrir os dois primeiros meses, quando o flúor mais pesado está saindo do seu corpo.
 
-Não pelos 59 dólares por frasco do kit de 3 que você acabou de ver.
+Não os 177 dólares por 3 frascos que você acabou de ver.
 
-Por 49 dólares o frasco. O mesmo preço por frasco do protocolo de 10 meses, em só 2 frascos.
+Só 2 frascos a 49 dólares cada. O mesmo preço por frasco do kit de 6 meses, sem o compromisso de 6 meses.
 
-São 98 dólares em vez de 118. Com frete grátis, porque eles vão dentro da caixa que você já pagou pra enviar.
+São 98 dólares no total. Com frete grátis, porque eles vão dentro da caixa que você já pagou pra enviar.
 
 [FP] Menos de 2 dólares por dia. Menos que a garrafa de água que eles enchem de flúor.
 
 A maioria das mulheres que começa com 2 frascos volta pra pegar mais depois que sente a diferença. [FP] Mas volta protegida, em vez de recomeçar do zero.
 
-Esse é o menor preço pelo qual o Divine Detox já foi oferecido. E ele só existe aqui, nesta página.
+Esse é o menor compromisso pelo qual o Divine Detox já foi oferecido. E ele só existe aqui, nesta página.
 
 A sua caixa já está na fila da próxima remessa. No momento em que for lacrada, esses 2 frascos não podem mais entrar nela, e esse preço vai junto.
 
@@ -139,7 +139,7 @@ Clique no botão abaixo e adicione 2 frascos ao seu pedido agora, antes da sua c
 
 ### SUB-HEADLINE
 **Maybe 3 Bottles Of Divine Detox Was A Little Too Much Right Now?**
-**Start With Just 2 Bottles At The Lowest Price Ever Offered: $49/bottle, Free Shipping, Same Box**
+**Start With Just 2 Bottles, The Smallest Commitment Ever Offered: $49/bottle, Free Shipping, Same Box**
 
 ---
 
@@ -157,19 +157,19 @@ Because in the second and third week, the fluoride Soul Flush loosens has nowher
 
 **[FP]** That's exactly what they count on. You start, you feel heavy, you quit.
 
-### [MOCKUP: 2 frascos · ~~$118~~ $98 · FREE SHIPPING · botão "Yes, Add 2 Bottles To My Order"]
+### [MOCKUP: 2 frascos · $98 · FREE SHIPPING · botão "Yes, Add 2 Bottles To My Order"]
 
 **So here's what I asked my team for.**
 
 You can start with just **2 bottles of Divine Detox**, enough to cover the first two months, when the heaviest fluoride is leaving your body.
 
-Not at $59 per bottle, like the 3-bottle kit. At **$49 per bottle**, the same price as the 10-month protocol, on just 2 bottles. ~~$118~~ **$98**, with **100% FREE SHIPPING**, inside the box you already paid to ship.
+Not the $177 for 3 bottles you just saw. Just 2 bottles at **$49 each**, the same price per bottle as the 6-month kit, without the 6-month commitment. **$98 total**, with **100% FREE SHIPPING**, inside the box you already paid to ship.
 
 **[FP]** Less than $2 a day. Less than the bottle of water they fill with fluoride.
 
 Most women who start with 2 bottles come back for more once they feel the difference. **[FP]** But they come back protected, instead of starting over from zero.
 
-This is the lowest price Divine Detox has ever been offered at, and it only exists on this page. Your box is already in line for the next shipment. The moment it's sealed, these 2 bottles can't go inside it, and this price goes with them. Not by email. Not through customer service.
+This is the smallest commitment Divine Detox has ever been offered at, and it only exists on this page. Your box is already in line for the next shipment. The moment it's sealed, these 2 bottles can't go inside it, and this price goes with them. Not by email. Not through customer service.
 
 **[FP]** The only thing worse than never feeling your bridge to God reopen… is feeling it reopen, and then feeling it close again.
 
@@ -179,7 +179,7 @@ This is the lowest price Divine Detox has ever been offered at, and it only exis
 
 **[FP]** You already know which one you'll regret.
 
-### [MOCKUP: 2 frascos · ~~$118~~ $98 · botão "Yes, Add 2 Bottles For $49 Each"]
+### [MOCKUP: 2 frascos · $98 · botão "Yes, Add 2 Bottles For $49 Each"]
 ### [Link: "No thanks, I'll let my body handle the released fluoride on its own"]
 ### [TIMER: "Your box is scheduled to be sealed in: 09:59"]
 
