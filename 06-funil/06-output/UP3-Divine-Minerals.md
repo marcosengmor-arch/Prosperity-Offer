@@ -27,6 +27,10 @@ And this is the last time you'll see me before your box leaves my hands.
 
 **[FP]** So before I say goodbye, I need to tell you the one thing I couldn't say until now.
 
+And I need you to hear me to the very end. Because if you close this page before I finish, everything you just invested in, the twelve bottles, the double dose, the six months, can end up doing half of what it was meant to do. You'd have spent all that money to open a channel and never hear what comes through it.
+
+Don't let that happen. Stay with me for three minutes.
+
 First, congratulations. You just made the same decision Taylor made. You didn't settle for one dropper a day. You doubled your dose, and you secured enough Soul Flush to go all the way to the sacred shield without running out.
 
 As the creator of this formula, I feel it's my duty to walk you to the very end of this road. And the end of this road has one more step.
@@ -185,6 +189,10 @@ Oi, sou eu de novo.
 E essa é a última vez que você vai me ver antes da sua caixa sair das minhas mãos.
 
 [FP] Então antes de me despedir, eu preciso te dizer a única coisa que eu não podia dizer até agora.
+
+E eu preciso que você me ouça até o fim. Porque se você fechar essa página antes de eu terminar, tudo o que você acabou de investir, os doze frascos, a dose dupla, os seis meses, pode acabar fazendo metade do que deveria. Você teria gasto todo esse dinheiro pra abrir um canal e nunca ouvir o que passa por ele.
+
+Não deixe isso acontecer. Fica comigo por três minutos.
 
 Primeiro, parabéns. Você acabou de tomar a mesma decisão que a Taylor tomou. Você não se contentou com um conta-gotas por dia. Dobrou a dose, e garantiu Soul Flush suficiente pra ir até o escudo sagrado sem ficar sem.
 
