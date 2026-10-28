@@ -8,7 +8,7 @@
 2. **Minerais do Mar Morto** (boro, magnésio, estrôncio), o lago mais mineral da Terra, nas margens onde o povo da Bíblia andou. Estrutura: a rede do cristal de calcita.
 3. **Sílica orgânica de cavalinha**, o mineral que dá forma a qualquer cristal.
 4. **Ácido fúlvico de shilajit do Himalaia**, 84 traços minerais, o carregador que leva tudo isso até a glândula.
-**Oferta (premissa, confirmar):** oferta única, 6 frascos, $197 ($32,83/frasco), "break-even", caixa já na fila, frete grátis, garantia 180 dias. Alternativa: 3 frascos a $39 ($117). Um frasco por mês, junto com a dose da noite.
+**Oferta (premissa, confirmar):** oferta única, 6 frascos, $197 ($32,83/frasco), "break-even", caixa já na fila, frete grátis, garantia 180 dias. Bônus: Crystal Tuning Frequency (áudio de 12 min). Alternativa: 3 frascos a $39 ($117). Um frasco por mês, junto com a dose da noite.
 **Quem fala:** Theresa, última aparição no funil. Despedida.
 **Estilo:** UP2 (abertura "Hey, it's me again", dever de guiar, "o maior erro", dica off the record, depoimento, "isso cria um problema", logística já paga, preço de custo, garantia, página única, "you made a smart decision"). Tratamento de gênero "no meio".
 **Frases de poder:** marcadas **[FP]**, 5 ao todo.
@@ -114,6 +114,18 @@ Right now, on this page only, you can add the full six-month supply of Divine Mi
 This is our break-even cost, with zero profit margin for us.
 
 With these six bottles, you'll secure the receiver for your accelerated protocol, a full six months with no interruption, and the certainty that when the answer comes down, you'll hear it.
+
+But wait. That's not all.
+
+Because you went all the way, I want to give you the one thing that makes these crystals do what they were made to do.
+
+Remember: piezoelectric means vibration in, signal out. Minerals rebuild the crystal. But a crystal that nobody strikes stays silent.
+
+So you'll also receive the Crystal Tuning Frequency. A 12-minute acoustic code my grandmother hummed over my head when I was a child, recorded in the exact frequency that makes calcite crystals ring, the way a tuning fork rings when you tap it.
+
+You play it before your night dropper. The minerals feed the crystal. The frequency strikes it. And the receiver wakes up.
+
+I use this same frequency in my private sessions with celebrities. For a client to have access to it, they invest no less than $3,000. Today it comes inside your box, free, only with Divine Minerals.
 
 And of course, this order is still 100% covered by our ironclad 180-day Blessing Guarantee. If you don't feel the signs, the dreams and the intuition coming back on, you'll receive every cent back.
 
@@ -236,6 +248,18 @@ Esse é o nosso preço de custo, com zero margem de lucro pra gente.
 
 Com esses seis frascos, você garante o receptor pro seu protocolo acelerado, seis meses completos sem interrupção, e a certeza de que quando a resposta descer, você vai ouvir.
 
+Mas espera. Não é só isso.
+
+Porque você foi até o fim, eu quero te dar a única coisa que faz esses cristais fazerem o que foram feitos pra fazer.
+
+Lembra: piezoelétrico significa vibração entra, sinal sai. Os minerais reconstroem o cristal. Mas um cristal que ninguém toca fica em silêncio.
+
+Então você também vai receber a Frequência de Afinação dos Cristais. Um código acústico de 12 minutos que a minha avó cantarolava sobre a minha cabeça quando eu era criança, gravado na frequência exata que faz os cristais de calcita vibrarem, do jeito que um diapasão vibra quando você bate nele.
+
+Você toca antes do conta-gotas da noite. Os minerais alimentam o cristal. A frequência toca o cristal. E o receptor acorda.
+
+Eu uso essa mesma frequência nas minhas sessões privadas com celebridades. Pra um cliente ter acesso a ela, investe não menos de 3.000 dólares. Hoje ela vem dentro da sua caixa, de graça, só com o Divine Minerals.
+
 E claro, esse pedido continua 100% coberto pela nossa Garantia da Benção de 180 dias. Se você não sentir os sinais, os sonhos e a intuição voltando a ligar, recebe cada centavo de volta.
 
 Lembre que esta página é uma oportunidade única. Não tem link de volta. Essa oferta não vai ser enviada por e-mail. Se você fechar essa aba, essa oferta acabou. E depois que a sua caixa for lacrada, eu não consigo adicionar mais nada.
@@ -269,5 +293,5 @@ Vou ficar esperando a sua carta.
 - **Ouro como terceiro presente dos Magos:** a VSL já citou Mateus 2:11 com os três presentes e usou só dois. "Guardei o ouro até você provar que estava falando sério" transforma a omissão em recompensa pelo UP2.
 - **Ingredientes:** ouro coloidal, minerais do Mar Morto (boro, magnésio, estrôncio), sílica de cavalinha, ácido fúlvico de shilajit. Ajustar ao rótulo real antes de gravar. Se o rótulo tiver iodo, entra como "o mineral que o flúor bloqueia" (já citado no texto sem nome).
 - **Preço:** 6 fr a $197 é premissa. Se for 3 fr, trocar "six-month supply… $197… $32.83" por "three-month supply… $117… $39" e "the same six months" por "the first three months, while the crust is coming off fastest".
-- **Bônus:** não inclui, porque o UP2 já entregou três e esta é a despedida. Se quiserem, o encaixe natural é "o áudio de frequência que faz os cristais vibrarem" (anotação do guia de ideias sobre frequência sonora).
+- **Bônus:** Crystal Tuning Frequency, áudio de 12 minutos "que faz os cristais vibrarem" (anotação do guia de ideias sobre frequência sonora; orgânicos do Grebelskii e Morphtrixxx usam a mesma lógica de "diapasão"). Ancorado em $3.000 como o canto angelical da VSL. Entregue como link ou QR na caixa.
 - **Despedida:** "I'll be waiting for your letter" retoma a metáfora da carta e da ponte da VSL.
