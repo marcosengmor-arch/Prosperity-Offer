@@ -127,6 +127,12 @@ You play it before your night dropper. The minerals feed the crystal. The freque
 
 I use this same frequency in my private sessions with celebrities. For a client to have access to it, they invest no less than $3,000. Today it comes inside your box, free, only with Divine Minerals.
 
+Listen to what Carol told me after her first night with it.
+
+"Theresa, I pressed play, took my night dropper, and within a minute I felt the spot between my eyebrows pulse with the sound. Like something inside was answering it. I fell asleep before it ended. And that night I dreamed of a door with the number 412. Three days later my daughter called to say she'd found an apartment. Unit 412. I hadn't told her anything."
+
+That's a crystal being struck.
+
 And of course, this order is still 100% covered by our ironclad 180-day Blessing Guarantee. If you don't feel the signs, the dreams and the intuition coming back on, you'll receive every cent back.
 
 Keep in mind this page is a one-time opportunity. There is no link back here. This offer will not be sent by email. If you close this tab, this offer is gone for good. And once your box is sealed, I can't add anything to it.
@@ -259,6 +265,12 @@ Então você também vai receber a Frequência de Afinação dos Cristais. Um c�
 Você toca antes do conta-gotas da noite. Os minerais alimentam o cristal. A frequência toca o cristal. E o receptor acorda.
 
 Eu uso essa mesma frequência nas minhas sessões privadas com celebridades. Pra um cliente ter acesso a ela, investe não menos de 3.000 dólares. Hoje ela vem dentro da sua caixa, de graça, só com o Divine Minerals.
+
+Ouça o que a Carol me contou depois da primeira noite com ela.
+
+"Theresa, eu dei play, tomei o conta-gotas da noite, e em um minuto senti o ponto entre as sobrancelhas pulsar com o som. Como se alguma coisa dentro estivesse respondendo. Dormi antes de acabar. E naquela noite sonhei com uma porta com o número 412. Três dias depois minha filha ligou dizendo que tinha achado um apartamento. Unidade 412. Eu não tinha contado nada pra ela."
+
+Isso é um cristal sendo tocado.
 
 E claro, esse pedido continua 100% coberto pela nossa Garantia da Benção de 180 dias. Se você não sentir os sinais, os sonhos e a intuição voltando a ligar, recebe cada centavo de volta.
 
