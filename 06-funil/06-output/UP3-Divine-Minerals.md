@@ -89,7 +89,11 @@ That's Divine Minerals. Four sources. None of them in a drugstore vitamin.
 
 Listen to what Diane wrote me. She doubled her dose in September.
 
+**Depoimento:**
+
 "Theresa, I was sleeping better than I had in twenty years, but I felt like I was praying into a wall. Two weeks after I added Divine Minerals, I woke up at 4 a.m. with my late father's voice saying 'check the attic.' I found the deed to his land. The one we thought was lost. The signal came back on."
+
+**[Volta Theresa, segue normal o vídeo]**
 
 That's the receiver turning on.
 
@@ -126,12 +130,6 @@ So you'll also receive the Crystal Tuning Frequency. A 12-minute acoustic code m
 You play it before your night dropper. The minerals feed the crystal. The frequency strikes it. And the receiver wakes up.
 
 I use this same frequency in my private sessions with celebrities. For a client to have access to it, they invest no less than $3,000. Today it comes inside your box, free, only with Divine Minerals.
-
-Listen to what Carol told me after her first night with it.
-
-"Theresa, I pressed play, took my night dropper, and within a minute I felt the spot between my eyebrows pulse with the sound. Like something inside was answering it. I fell asleep before it ended. And that night I dreamed of a door with the number 412. Three days later my daughter called to say she'd found an apartment. Unit 412. I hadn't told her anything."
-
-That's a crystal being struck.
 
 And of course, this order is still 100% covered by our ironclad 180-day Blessing Guarantee. If you don't feel the signs, the dreams and the intuition coming back on, you'll receive every cent back.
 
@@ -228,7 +226,11 @@ Isso é o Divine Minerals. Quatro fontes. Nenhuma delas numa vitamina de farmác
 
 Ouça o que a Diane me escreveu. Ela dobrou a dose em setembro.
 
+**Depoimento:**
+
 "Theresa, eu estava dormindo melhor do que em vinte anos, mas sentia que rezava pra uma parede. Duas semanas depois de adicionar o Divine Minerals, acordei às 4 da manhã com a voz do meu falecido pai dizendo 'olha no sótão'. Achei a escritura do terreno dele. A que a gente achava que tinha perdido. O sinal voltou."
+
+**[Volta Theresa, segue normal o vídeo]**
 
 Isso é o receptor ligando.
 
@@ -265,12 +267,6 @@ Então você também vai receber a Frequência de Afinação dos Cristais. Um c�
 Você toca antes do conta-gotas da noite. Os minerais alimentam o cristal. A frequência toca o cristal. E o receptor acorda.
 
 Eu uso essa mesma frequência nas minhas sessões privadas com celebridades. Pra um cliente ter acesso a ela, investe não menos de 3.000 dólares. Hoje ela vem dentro da sua caixa, de graça, só com o Divine Minerals.
-
-Ouça o que a Carol me contou depois da primeira noite com ela.
-
-"Theresa, eu dei play, tomei o conta-gotas da noite, e em um minuto senti o ponto entre as sobrancelhas pulsar com o som. Como se alguma coisa dentro estivesse respondendo. Dormi antes de acabar. E naquela noite sonhei com uma porta com o número 412. Três dias depois minha filha ligou dizendo que tinha achado um apartamento. Unidade 412. Eu não tinha contado nada pra ela."
-
-Isso é um cristal sendo tocado.
 
 E claro, esse pedido continua 100% coberto pela nossa Garantia da Benção de 180 dias. Se você não sentir os sinais, os sonhos e a intuição voltando a ligar, recebe cada centavo de volta.
 
