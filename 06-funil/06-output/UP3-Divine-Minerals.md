@@ -10,8 +10,8 @@
 4. **Ácido fúlvico de shilajit do Himalaia**, 84 traços minerais, o carregador que leva tudo isso até a glândula.
 **Oferta (premissa, confirmar):** oferta única, 6 frascos, $197 ($32,83/frasco), "break-even", caixa já na fila, frete grátis, garantia 180 dias. Bônus: Crystal Tuning Frequency (áudio de 12 min). Alternativa: 3 frascos a $39 ($117). Um frasco por mês, junto com a dose da noite.
 **Quem fala:** Theresa, última aparição no funil. Despedida.
-**Estilo:** UP2 (abertura "Hey, it's me again", dever de guiar, "o maior erro", dica off the record, depoimento, "isso cria um problema", logística já paga, preço de custo, garantia, página única, "you made a smart decision"). Tratamento de gênero "no meio".
-**Frases de poder:** marcadas **[FP]**, 5 ao todo.
+**Estilo:** UP2, bloco a bloco: abertura "Hey, it's me again", parabéns, dever de guiar, "o maior erro" com o inimigo (guerra espiritual), prova social em volume ("dezenas de mensagens, tive que investigar"), dica off the record, depoimento, "isso cria um problema", solução de emergência pra equipe, logística já paga, preço de custo, bônus, garantia, página única, "you made a smart decision, show your determination", "garantia e bônus continuam valendo", future pacing em lista, duas escolhas, CTA. Tratamento de gênero "no meio".
+**Frases de poder:** marcadas **[FP]**, 6 ao todo.
 
 ---
 ---
@@ -37,6 +37,8 @@ The biggest mistake anyone can make is thinking that a clean pineal gland is an 
 
 It's not.
 
+And that's exactly what they count on. A woman who cleans her antenna, waits for the answer, hears nothing, and goes back to the water convinced it was all in her head. **[FP]** That's the enemy's favorite way back in: not through the crust, through the silence.
+
 Let me explain, my dear.
 
 Science found something inside your pineal gland that almost nobody talks about. Microscopic crystals. Calcite crystals. Documented under the microscope.
@@ -59,13 +61,17 @@ But here's what nobody warned you about. Fluoride doesn't sit on top of the crys
 
 And your body can't replace them from food. Not anymore. The soil is empty. And the same fluoride that calcified your gland blocks the one mineral your thyroid needs to send minerals to the brain.
 
-So this is what I've seen happen with women who accelerate the protocol without this step.
+I didn't discover this in a book. I discovered it in my inbox.
+
+After the double dose went out, I started receiving dozens of messages a week from women on the accelerated protocol. Different cities, different ages, the exact same words: "Theresa, I sleep like a baby, but nothing comes back."
+
+With so many messages, I had to investigate. And what I found scared me.
 
 The first week is beautiful. The radio in the head turns off. They sleep like babies. They feel light.
 
 And then they wait for the signs. And the signs don't come.
 
-They pray, and they feel the prayer go up. But nothing comes back down. No dream. No hunch. No name on their lips before the phone rings.
+They pray, and they feel the prayer go up. But nothing comes back down. No dream. No hunch. No name on their lips before the phone rings. The job offer that was supposed to appear doesn't. The money that was on its way stays stuck halfway. And every day that passes with the receiver empty, they trust the signal a little less.
 
 **[FP]** Clean antenna. Dead receiver. You're transmitting to God, and you can't hear the answer.
 
@@ -109,7 +115,7 @@ The payment processing, our team's handling, the box, the label, the shipping. A
 
 Adding six more bottles to a box that's already being prepared has no additional overhead for us besides the cost of the minerals themselves.
 
-So I convinced my team to pass 100% of those savings on to you.
+So I took this to my team and proposed an emergency solution, only for the people who already committed to the accelerated protocol. And I convinced them to pass 100% of those savings on to you.
 
 Not as a sale. As the only responsible way to make sure the antenna you're cleaning at double speed has a receiver waiting underneath.
 
@@ -138,6 +144,22 @@ Keep in mind this page is a one-time opportunity. There is no link back here. Th
 **[FP]** The only thing worse than a blocked antenna is a clean one that nobody feeds. You did the hard part. Don't leave the receiver empty.
 
 You made a smart decision today. Twice.
+
+Now show your determination and commitment to completing your awakening.
+
+Remember, your 180-day guarantee and the Crystal Tuning Frequency still apply to this offer.
+
+And here's what's waiting on the other side, once the receiver is on.
+
+The name on your lips a second before the phone rings.
+
+The dream that warns you three days before it would have happened.
+
+The financial idea that shows up in your mind so clear it feels dictated.
+
+The feeling of being heard on the very first prayer.
+
+And the end of that quiet doubt that God went silent on you. He never did. You just couldn't hear Him yet.
 
 Now you have two choices.
 
@@ -174,6 +196,8 @@ O maior erro que alguém pode cometer é achar que uma pineal limpa é uma pinea
 
 Não é.
 
+E é exatamente com isso que eles contam. Uma mulher que limpa a antena, espera a resposta, não ouve nada, e volta pra água convencida de que era tudo coisa da cabeça dela. [FP] Esse é o caminho de volta preferido do inimigo: não pela crosta, pelo silêncio.
+
 Deixa eu explicar, querida.
 
 A ciência encontrou uma coisa dentro da sua pineal de que quase ninguém fala. Cristais microscópicos. Cristais de calcita. Documentados no microscópio.
@@ -196,13 +220,17 @@ Mas aqui está o que ninguém te avisou. O flúor não fica em cima dos cristais
 
 E o seu corpo não consegue repor isso pela comida. Não mais. O solo está vazio. E o mesmo flúor que calcificou a sua glândula bloqueia o único mineral que a sua tireoide precisa pra mandar minerais pro cérebro.
 
-Então isso é o que eu vi acontecer com mulheres que aceleram o protocolo sem esse passo.
+Eu não descobri isso num livro. Descobri na minha caixa de mensagens.
+
+Depois que a dose dupla saiu, comecei a receber dezenas de mensagens por semana de mulheres no protocolo acelerado. Cidades diferentes, idades diferentes, exatamente as mesmas palavras: "Theresa, eu durmo como um bebê, mas nada volta."
+
+Com tantas mensagens, eu tive que investigar. E o que eu encontrei me assustou.
 
 A primeira semana é linda. O rádio na cabeça desliga. Elas dormem como bebês. Se sentem leves.
 
 E aí elas esperam os sinais. E os sinais não vêm.
 
-Elas rezam, e sentem a oração subir. Mas nada desce de volta. Nenhum sonho. Nenhum palpite. Nenhum nome nos lábios antes de o telefone tocar.
+Elas rezam, e sentem a oração subir. Mas nada desce de volta. Nenhum sonho. Nenhum palpite. Nenhum nome nos lábios antes de o telefone tocar. A proposta de emprego que ia aparecer não aparece. O dinheiro que estava a caminho fica parado no meio. E cada dia que passa com o receptor vazio, elas confiam um pouco menos no sinal.
 
 [FP] Antena limpa. Receptor morto. Você está transmitindo pra Deus, e não consegue ouvir a resposta.
 
@@ -246,7 +274,7 @@ O processamento do pagamento, o manuseio da nossa equipe, a caixa, a etiqueta, o
 
 Adicionar mais seis frascos numa caixa que já está sendo preparada não tem custo extra pra gente além do custo dos minerais em si.
 
-Então eu convenci a minha equipe a repassar 100% dessa economia pra você.
+Então eu levei isso pra minha equipe e propus uma solução de emergência, só pra quem já se comprometeu com o protocolo acelerado. E convenci eles a repassar 100% dessa economia pra você.
 
 Não como promoção. Como o único jeito responsável de garantir que a antena que você está limpando em velocidade dupla tenha um receptor esperando embaixo.
 
@@ -275,6 +303,22 @@ Lembre que esta página é uma oportunidade única. Não tem link de volta. Essa
 [FP] A única coisa pior que uma antena bloqueada é uma antena limpa que ninguém alimenta. Você fez a parte difícil. Não deixe o receptor vazio.
 
 Você tomou uma decisão inteligente hoje. Duas vezes.
+
+Agora mostre a sua determinação e o seu compromisso em completar o seu despertar.
+
+Lembre que a sua garantia de 180 dias e a Frequência de Afinação dos Cristais continuam valendo nessa oferta.
+
+E aqui está o que te espera do outro lado, quando o receptor ligar.
+
+O nome nos seus lábios um segundo antes de o telefone tocar.
+
+O sonho que te avisa três dias antes do que ia acontecer.
+
+A ideia financeira que aparece na sua mente tão clara que parece ditada.
+
+A sensação de ser ouvida na primeira oração.
+
+E o fim daquela dúvida silenciosa de que Deus ficou mudo pra você. Ele nunca ficou. Você só não conseguia ouvir ainda.
 
 Agora você tem duas escolhas.
 
