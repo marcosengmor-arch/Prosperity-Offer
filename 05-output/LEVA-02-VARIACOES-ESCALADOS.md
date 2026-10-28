@@ -1,5 +1,5 @@
 # LEVA 02 — 3 VARIAÇÕES DE ADS ESCALADOS (3 hooks cada)
-Regra: body do ad escalado intacto. Muda uma variável por peça (formato ou avatar). Nas peças de podcast/talk show (S2, B4-1), o body vira diálogo na cadência do swipe `04-pesquisa/SWIPE-PODCAST-CADENCIA.md`, em metade da intensidade: host entra ~10 vezes como objeção em voz alta, repete números, reage curto e assume o CTA. As frases validadas do body ficam intactas; o host nunca adiciona informação nova. Hooks derivados dos validados: **[literal]**, **[1-2 palavras]** ou **[ângulo]**. Frases de poder (regra 13): 3 por peça, começo, meio e fim, marcadas **[FP]**. Nas peças com host entram nas falas do host, pra não tocar nas frases validadas da convidada. No B6-M entram nas costuras do body, sem mexer nas frases validadas.
+Regra: body do ad escalado intacto. Muda uma variável por peça (formato ou avatar). Nas peças de podcast/talk show (S2, B4-1), o body vira diálogo na cadência do swipe `04-pesquisa/SWIPE-PODCAST-CADENCIA.md`, em metade da intensidade: host entra ~10 vezes como objeção em voz alta, repete números, reage curto e assume o CTA. As frases validadas do body ficam intactas; o host nunca adiciona informação nova. Hooks derivados dos validados: **[literal]**, **[1-2 palavras]** ou **[ângulo]**. Frases de poder (regra 13): 5 por peça, incluindo palavras curtas de atenção (Stop, Listen, Wait, Pay attention), marcadas **[FP]**. Nas peças com host entram nas falas do host, pra não tocar nas frases validadas da convidada. No B6-M entram nas costuras do body, sem mexer nas frases validadas.
 
 | Peça | Base | Variável | Avatar | Host |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ FALLON: You're not going to believe what happened to my next guest this morning.
 
 [Fallon] Okay, so how do you un-rock it?
 
-[Teresa] An ancient 15-second ritual. That's it. That's how I gained fame, wealth, and helped over 77,000 women with my gift of clairvoyance. My family figured out how to activate it more than 500 years ago.
+[Teresa] **[FP]** Listen. An ancient 15-second ritual. That's it. That's how I gained fame, wealth, and helped over 77,000 women with my gift of clairvoyance. My family figured out how to activate it more than 500 years ago.
 
 [Fallon] Five hundred years.
 
@@ -64,7 +64,7 @@ FALLON: You're not going to believe what happened to my next guest this morning.
 
 [Teresa] The Rockefellers pay a fortune to keep it quiet. **[FP]** That's the piece they cut out of every sermon and every science class.
 
-[Fallon] Okay. So where does someone actually see this ritual?
+[Fallon] **[FP]** Okay. Stop. So where does someone actually see this ritual?
 
 [Teresa] I recorded a short video. Exactly how to do the 15-second ritual, step by step, to activate your third eye today. Normally that video costs $97 per view.
 
@@ -98,7 +98,7 @@ FALLON: You're not going to believe what happened to my next guest this morning.
 
 [Fallon] Tá, e como tira a pedra?
 
-[Teresa] Um ritual ancestral de 15 segundos. Só isso. Foi assim que eu ganhei fama, riqueza e ajudei mais de 77.000 mulheres com o meu dom de clarividência. A minha família descobriu como ativar há mais de 500 anos.
+[Teresa] [FP] Escuta. Um ritual ancestral de 15 segundos. Só isso. Foi assim que eu ganhei fama, riqueza e ajudei mais de 77.000 mulheres com o meu dom de clarividência. A minha família descobriu como ativar há mais de 500 anos.
 
 [Fallon] Quinhentos anos.
 
@@ -108,7 +108,7 @@ FALLON: You're not going to believe what happened to my next guest this morning.
 
 [Teresa] Os Rockefeller pagam uma fortuna pra manter isso em silêncio. [FP] Esse é o pedaço que cortaram de todo sermão e de toda aula de ciência.
 
-[Fallon] Tá. E onde a pessoa vê esse ritual?
+[Fallon] [FP] Tá. Para. E onde a pessoa vê esse ritual?
 
 [Teresa] Eu gravei um vídeo curto. Exatamente como fazer o ritual de 15 segundos, passo a passo, pra ativar o seu terceiro olho hoje. Normalmente esse vídeo custa 97 dólares por acesso.
 
@@ -171,7 +171,7 @@ ROGAN: Three bizarre signs your pineal gland is active and you didn't realize it
 
 [Rogan] So regular people never got this. **[FP]** There's a dirty reason behind that.
 
-[Traci] Never. It was reserved for people ordinary families could never reach. **[FP]** When I connected the dots, I was furious. And here's what's gonna blow your mind. I had a private reading with Theresa Caputo. And during the session she told me something I'll never forget. She saw in my path that I was meant to help other women reconnect with their intuition and spiritual gifts.
+[Traci] Never. It was reserved for people ordinary families could never reach. **[FP]** When I connected the dots, I was furious. **[FP]** Pay attention. And here's what's gonna blow your mind. I had a private reading with Theresa Caputo. And during the session she told me something I'll never forget. She saw in my path that I was meant to help other women reconnect with their intuition and spiritual gifts.
 
 [Rogan] She told you that.
 
@@ -215,7 +215,7 @@ ROGAN: Three bizarre signs your pineal gland is active and you didn't realize it
 
 [Rogan] Então gente comum nunca teve isso. [FP] Tem um motivo sujo por trás disso.
 
-[Traci] Nunca. Era reservado pra gente que famílias comuns nunca poderiam alcançar. [FP] Quando eu liguei os pontos, fiquei furiosa. E aqui está o que vai explodir a sua cabeça. Eu fiz uma leitura particular com a Theresa Caputo. E durante a sessão ela me disse uma coisa que eu nunca vou esquecer. Ela viu no meu caminho que eu deveria ajudar outras mulheres a reconectar com a intuição e os dons espirituais.
+[Traci] Nunca. Era reservado pra gente que famílias comuns nunca poderiam alcançar. [FP] Quando eu liguei os pontos, fiquei furiosa. [FP] Presta atenção. E aqui está o que vai explodir a sua cabeça. Eu fiz uma leitura particular com a Theresa Caputo. E durante a sessão ela me disse uma coisa que eu nunca vou esquecer. Ela viu no meu caminho que eu deveria ajudar outras mulheres a reconectar com a intuição e os dons espirituais.
 
 [Rogan] Ela te disse isso.
 
@@ -279,11 +279,13 @@ I put my fork down and asked her: "Is there anything that actually helps?"
 
 She gave me some standard advice first. Look, you won't believe what she told me after everyone left the table.
 
+**[FP]** Listen.
+
 She got quieter, like she didn't want anyone else to hear, and told me her family had known a secret for more than 500 years. They call it the 15-second ancient ritual. She said it clears what they call the third eye crust. A fluoride buildup that clogs your third eye, the pineal gland, and blocks its signal. And if that crust isn't cleared in time, the signal starts to fade all the way to complete silence.
 
 **[FP]** When I connected the dots, I was furious. Right there, even before the first dance, I asked her to show me everything she had. She texted me a short video walking through the whole process step by step. I watched it in the car on the way home. And started that same night.
 
-What happened after this changed everything. Three days later, I felt something shift.
+**[FP]** Wait. What happened after this changed everything. Three days later, I felt something shift.
 
 I started sensing people's intentions before they even said a word. **I even discovered my business partner had been lying to me for two years.** [troca 1] Money started showing up in ways I never expected. Things started working in my favor and **the right people started showing up in my life** [troca 2], all because of this 15-second ancient ritual.
 
@@ -331,11 +333,13 @@ Eu baixei o garfo e perguntei: "Existe alguma coisa que ajuda de verdade?"
 
 Ela me deu uns conselhos padrão primeiro. Olha, você não vai acreditar no que ela me contou depois que todo mundo saiu da mesa.
 
+[FP] Escuta.
+
 Ela abaixou a voz, como se não quisesse que mais ninguém ouvisse, e me disse que a família dela guardava um segredo há mais de 500 anos. Eles chamam de ritual ancestral de 15 segundos. Ela disse que ele limpa o que eles chamam de crosta do terceiro olho. Um acúmulo de flúor que entope o seu terceiro olho, a glândula pineal, e bloqueia o sinal dela. E se essa crosta não for limpa a tempo, o sinal começa a apagar até o silêncio completo.
 
 [FP] Quando eu liguei os pontos, fiquei furioso. Ali mesmo, antes da primeira dança, pedi pra ela me mostrar tudo o que tinha. Ela me mandou por mensagem um vídeo curto explicando o processo inteiro passo a passo. Assisti no carro voltando pra casa. E comecei naquela mesma noite.
 
-O que aconteceu depois mudou tudo. Três dias depois, senti algo mudar.
+[FP] Espera. O que aconteceu depois mudou tudo. Três dias depois, senti algo mudar.
 
 Comecei a sentir a intenção das pessoas antes de elas dizerem uma palavra. **Descobri até que o meu sócio estava mentindo pra mim há dois anos.** [troca 1] O dinheiro começou a aparecer de jeitos que eu nunca esperei. As coisas começaram a trabalhar a meu favor e **as pessoas certas começaram a aparecer na minha vida** [troca 2], tudo por causa desse ritual ancestral de 15 segundos.
 
