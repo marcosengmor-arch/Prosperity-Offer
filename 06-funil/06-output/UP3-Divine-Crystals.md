@@ -1,9 +1,9 @@
-# UP3 — DIVINE MINERALS (só pra quem comprou o UP2)
+# UP3 — DIVINE CRYSTALS (só pra quem comprou o UP2)
 
 **Posição no funil:** aparece pra quem acabou de aceitar o UP2 (6 frascos extras, dose dupla). É a pessoa de maior compromisso do funil: 12 frascos de Soul Flush, provavelmente Divine Detox, protocolo acelerado.
 **Problema que resolve (necessidade):** a pineal só transmite e recebe porque tem cristais de calcita piezoelétricos dentro. A dose dupla de hissopo arranca a crosta de flúor rápido, mas leva junto os minerais raros que formam e carregam esses cristais. Antena limpa sem cristal é antena morta: a oração sobe, nada desce. Sem repor os minerais, o protocolo acelerado abre o canal e deixa o receptor desligado.
 **Válvula de segurança (não dizer que o Soul Flush não funciona):** o Soul Flush funciona e ela vai sentir o Estágio 1 (sono, silêncio, leveza). O que depende dos cristais é o "receber": sinais, sonhos, intuição, a resposta chegando. Em dose normal o corpo repõe devagar; em dose dupla, não acompanha.
-**Produto:** Divine Minerals. Não é multivitamínico. Quatro fontes raras, cada uma com papel no cristal:
+**Produto:** Divine Crystals. Não é multivitamínico. Quatro fontes raras, cada uma com papel no cristal:
 1. **Ouro coloidal**, o terceiro presente dos Magos (Mateus 2:11, que a VSL já citou com olíbano e mirra). Condutor: faz o cristal carregar e descarregar o sinal.
 2. **Minerais do Mar Morto** (boro, magnésio, estrôncio), o lago mais mineral da Terra, nas margens onde o povo da Bíblia andou. Estrutura: a rede do cristal de calcita.
 3. **Sílica orgânica de cavalinha**, o mineral que dá forma a qualquer cristal.
@@ -19,7 +19,7 @@
 ## VERSÃO PRINCIPAL — VSL (roteiro, Theresa falando)
 
 **Cena:** mesma referência de edição dos upsells. Theresa sozinha, mais próxima da câmera, tom de despedida. Inserts: cristais de calcita ao microscópio, antena de rádio de cristal, ouro, Mar Morto, diário da avó, caixa sendo lacrada.
-**Abaixo do vídeo:** mockup de 6 frascos de Divine Minerals · **$197** · FREE SHIPPING · botão "Yes, Add Divine Minerals To My Order" · link "No thanks, I'll let my antenna rebuild on its own".
+**Abaixo do vídeo:** mockup de 6 frascos de Divine Crystals · **$197** · FREE SHIPPING · botão "Yes, Add Divine Crystals To My Order" · link "No thanks, I'll let my antenna rebuild on its own".
 
 Hey, it's me again.
 
@@ -95,13 +95,13 @@ Then the shape. Organic silica, from horsetail. There's no crystal in nature wit
 
 And then the carrier. Fulvic acid from Himalayan shilajit. Eighty-four trace minerals in one resin, the only thing I know that carries all of this through the blood and up to the gland.
 
-That's Divine Minerals. Four sources. None of them in a drugstore vitamin.
+That's Divine Crystals. Four sources. None of them in a drugstore vitamin.
 
 Listen to what Diane wrote me. She doubled her dose in September.
 
 **Depoimento:**
 
-"Theresa, I was sleeping better than I had in twenty years, but I felt like I was praying into a wall. Two weeks after I added Divine Minerals, I woke up at 4 a.m. with my late father's voice saying 'check the attic.' I found the deed to his land. The one we thought was lost. The signal came back on."
+"Theresa, I was sleeping better than I had in twenty years, but I felt like I was praying into a wall. Two weeks after I added Divine Crystals, I woke up at 4 a.m. with my late father's voice saying 'check the attic.' I found the deed to his land. The one we thought was lost. The signal came back on."
 
 **[Volta Theresa, segue normal o vídeo]**
 
@@ -111,9 +111,9 @@ Now, this creates a problem, and I have to be honest with you about it.
 
 These aren't minerals I can order by the ton. The Dead Sea harvest happens twice a year. The shilajit comes down from the mountain by hand. The gold is prepared in small batches, and I bless each batch the same way my grandmother taught me.
 
-Which means I can't produce Divine Minerals for everyone. Only for the people who committed to the accelerated protocol. People like you.
+Which means I can't produce Divine Crystals for everyone. Only for the people who committed to the accelerated protocol. People like you.
 
-And since your box is already in the queue, with your twelve bottles of Soul Flush inside it, adding Divine Minerals right now is extremely simple.
+And since your box is already in the queue, with your twelve bottles of Soul Flush inside it, adding Divine Crystals right now is extremely simple.
 
 The payment processing, our team's handling, the box, the label, the shipping. All of it is already covered.
 
@@ -123,7 +123,7 @@ So I took this to my team and proposed an emergency solution, only for the peopl
 
 Not as a sale. As the only responsible way to make sure the antenna you're cleaning at double speed has a receiver waiting underneath.
 
-Right now, on this page only, you can add the full six-month supply of Divine Minerals to your order for $197. That's $32.83 per bottle. One bottle per month, taken with your night dropper, for the same six months it takes the sacred shield to form.
+Right now, on this page only, you can add the full six-month supply of Divine Crystals to your order for $197. That's $32.83 per bottle. One bottle per month, taken with your night dropper, for the same six months it takes the sacred shield to form.
 
 This is our break-even cost, with zero profit margin for us.
 
@@ -139,7 +139,7 @@ So you'll also receive the Crystal Tuning Frequency. A 12-minute acoustic code m
 
 You play it before your night dropper. The minerals feed the crystal. The frequency strikes it. And the receiver wakes up.
 
-I use this same frequency in my private sessions with celebrities. For a client to have access to it, they invest no less than $3,000. Today it comes inside your box, free, only with Divine Minerals.
+I use this same frequency in my private sessions with celebrities. For a client to have access to it, they invest no less than $3,000. Today it comes inside your box, free, only with Divine Crystals.
 
 And of course, this order is still 100% covered by our ironclad 180-day Blessing Guarantee. If you don't feel the signs, the dreams and the intuition coming back on, you'll receive every cent back.
 
@@ -171,9 +171,9 @@ You can run the accelerated protocol and leave your crystals to rebuild on their
 
 Or you can feed the receiver while the antenna clears, and hear the answer the first time it comes.
 
-Soul Flush opens the bridge. Divine Detox clears the road. Divine Minerals turns the receiver on.
+Soul Flush opens the bridge. Divine Detox clears the road. Divine Crystals turns the receiver on.
 
-Click the button below, add Divine Minerals to your order, and let me seal your box knowing you'll hear every word He sends back.
+Click the button below, add Divine Crystals to your order, and let me seal your box knowing you'll hear every word He sends back.
 
 This was the last thing I needed to tell you.
 
@@ -258,13 +258,13 @@ Depois, a forma. Sílica orgânica, da cavalinha. Não existe cristal na naturez
 
 E depois, o carregador. Ácido fúlvico do shilajit do Himalaia. Oitenta e quatro traços minerais numa resina só, a única coisa que eu conheço que carrega tudo isso pelo sangue até a glândula.
 
-Isso é o Divine Minerals. Quatro fontes. Nenhuma delas numa vitamina de farmácia.
+Isso é o Divine Crystals. Quatro fontes. Nenhuma delas numa vitamina de farmácia.
 
 Ouça o que a Diane me escreveu. Ela dobrou a dose em setembro.
 
 **Depoimento:**
 
-"Theresa, eu estava dormindo melhor do que em vinte anos, mas sentia que rezava pra uma parede. Duas semanas depois de adicionar o Divine Minerals, acordei às 4 da manhã com a voz do meu falecido pai dizendo 'olha no sótão'. Achei a escritura do terreno dele. A que a gente achava que tinha perdido. O sinal voltou."
+"Theresa, eu estava dormindo melhor do que em vinte anos, mas sentia que rezava pra uma parede. Duas semanas depois de adicionar o Divine Crystals, acordei às 4 da manhã com a voz do meu falecido pai dizendo 'olha no sótão'. Achei a escritura do terreno dele. A que a gente achava que tinha perdido. O sinal voltou."
 
 **[Volta Theresa, segue normal o vídeo]**
 
@@ -274,9 +274,9 @@ Agora, isso cria um problema, e eu preciso ser honesta com você sobre ele.
 
 Esses não são minerais que eu consigo encomendar por tonelada. A colheita do Mar Morto acontece duas vezes por ano. O shilajit desce da montanha na mão. O ouro é preparado em lotes pequenos, e eu abençoo cada lote do jeito que a minha avó me ensinou.
 
-O que significa que eu não consigo produzir Divine Minerals pra todo mundo. Só pra quem se comprometeu com o protocolo acelerado. Gente como você.
+O que significa que eu não consigo produzir Divine Crystals pra todo mundo. Só pra quem se comprometeu com o protocolo acelerado. Gente como você.
 
-E como a sua caixa já está na fila, com os seus doze frascos de Soul Flush dentro, adicionar o Divine Minerals agora é extremamente simples.
+E como a sua caixa já está na fila, com os seus doze frascos de Soul Flush dentro, adicionar o Divine Crystals agora é extremamente simples.
 
 O processamento do pagamento, o manuseio da nossa equipe, a caixa, a etiqueta, o envio. Tudo isso já está coberto.
 
@@ -286,7 +286,7 @@ Então eu levei isso pra minha equipe e propus uma solução de emergência, só
 
 Não como promoção. Como o único jeito responsável de garantir que a antena que você está limpando em velocidade dupla tenha um receptor esperando embaixo.
 
-Agora, só nesta página, você pode adicionar o suprimento completo de seis meses de Divine Minerals ao seu pedido por 197 dólares. São 32,83 por frasco. Um frasco por mês, tomado com o conta-gotas da noite, pelos mesmos seis meses que o escudo sagrado leva pra se formar.
+Agora, só nesta página, você pode adicionar o suprimento completo de seis meses de Divine Crystals ao seu pedido por 197 dólares. São 32,83 por frasco. Um frasco por mês, tomado com o conta-gotas da noite, pelos mesmos seis meses que o escudo sagrado leva pra se formar.
 
 Esse é o nosso preço de custo, com zero margem de lucro pra gente.
 
@@ -302,7 +302,7 @@ Então você também vai receber a Frequência de Afinação dos Cristais. Um c�
 
 Você toca antes do conta-gotas da noite. Os minerais alimentam o cristal. A frequência toca o cristal. E o receptor acorda.
 
-Eu uso essa mesma frequência nas minhas sessões privadas com celebridades. Pra um cliente ter acesso a ela, investe não menos de 3.000 dólares. Hoje ela vem dentro da sua caixa, de graça, só com o Divine Minerals.
+Eu uso essa mesma frequência nas minhas sessões privadas com celebridades. Pra um cliente ter acesso a ela, investe não menos de 3.000 dólares. Hoje ela vem dentro da sua caixa, de graça, só com o Divine Crystals.
 
 E claro, esse pedido continua 100% coberto pela nossa Garantia da Benção de 180 dias. Se você não sentir os sinais, os sonhos e a intuição voltando a ligar, recebe cada centavo de volta.
 
@@ -334,9 +334,9 @@ Pode rodar o protocolo acelerado e deixar os seus cristais se reconstruírem soz
 
 Ou pode alimentar o receptor enquanto a antena limpa, e ouvir a resposta na primeira vez que ela vier.
 
-O Soul Flush abre a ponte. O Divine Detox limpa a estrada. O Divine Minerals liga o receptor.
+O Soul Flush abre a ponte. O Divine Detox limpa a estrada. O Divine Crystals liga o receptor.
 
-Clique no botão abaixo, adicione o Divine Minerals ao seu pedido, e me deixe lacrar a sua caixa sabendo que você vai ouvir cada palavra que Ele mandar de volta.
+Clique no botão abaixo, adicione o Divine Crystals ao seu pedido, e me deixe lacrar a sua caixa sabendo que você vai ouvir cada palavra que Ele mandar de volta.
 
 Essa era a última coisa que eu precisava te dizer.
 
