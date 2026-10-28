@@ -1,5 +1,5 @@
 # LEVA 02 — 3 VARIAÇÕES DE ADS ESCALADOS (3 hooks cada)
-Regra: body do ad escalado intacto. Muda uma variável por peça (formato ou avatar). Nas peças de podcast/talk show (S2, B4-1), o body vira diálogo na cadência do swipe `04-pesquisa/SWIPE-PODCAST-CADENCIA.md`, em metade da intensidade: host entra ~10 vezes como objeção em voz alta, repete números, reage curto e assume o CTA. As frases validadas do body ficam intactas; o host nunca adiciona informação nova. Hooks derivados dos validados: **[literal]**, **[1-2 palavras]** ou **[ângulo]**. Frases de poder já existentes nos bodies foram mantidas; não acrescentei novas pra não alterar o validado.
+Regra: body do ad escalado intacto. Muda uma variável por peça (formato ou avatar). Nas peças de podcast/talk show (S2, B4-1), o body vira diálogo na cadência do swipe `04-pesquisa/SWIPE-PODCAST-CADENCIA.md`, em metade da intensidade: host entra ~10 vezes como objeção em voz alta, repete números, reage curto e assume o CTA. As frases validadas do body ficam intactas; o host nunca adiciona informação nova. Hooks derivados dos validados: **[literal]**, **[1-2 palavras]** ou **[ângulo]**. Frases de poder (regra 13): 3 por peça, começo, meio e fim, marcadas **[FP]**. Nas peças com host entram nas falas do host, pra não tocar nas frases validadas da convidada. No B6-M entram nas costuras do body, sem mexer nas frases validadas.
 
 | Peça | Base | Variável | Avatar | Host |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ FALLON: You're not going to believe what happened to my next guest this morning.
 
 [Teresa] Fifteen. But first, close your eyes. Everybody, close your eyes. If all you see is darkness, right, no light, no images, that means your pineal gland, your third eye, isn't active.
 
-[Fallon] It's just… black.
+[Fallon] It's just… black. **[FP]** Okay, nobody in this room was ready for that.
 
 [Teresa] It's just black. That's most of this room. This hidden eye is known in science as the pineal gland. And when you activate it, you wake up almost superhuman abilities. All the ones you've heard about. Manifestation. Reading the energy in a room. Knowing what decisions to make. The law of attraction.
 
@@ -62,7 +62,7 @@ FALLON: You're not going to believe what happened to my next guest this morning.
 
 [Fallon] Wait. The Rockefellers know about this?
 
-[Teresa] The Rockefellers pay a fortune to keep it quiet.
+[Teresa] The Rockefellers pay a fortune to keep it quiet. **[FP]** That's the piece they cut out of every sermon and every science class.
 
 [Fallon] Okay. So where does someone actually see this ritual?
 
@@ -76,7 +76,7 @@ FALLON: You're not going to believe what happened to my next guest this morning.
 
 [Teresa] Do it while it's still up.
 
-[Fallon] Stop what you're doing and click the button below to learn today how to activate your third eye.
+[Fallon] **[FP]** You'll remember this clip the day it disappears. Stop what you're doing and click the button below to learn today how to activate your third eye.
 
 ## Body + CTA S2 (PT)
 
@@ -88,7 +88,7 @@ FALLON: You're not going to believe what happened to my next guest this morning.
 
 [Teresa] Quinze. Mas primeiro, fecha os olhos. Todo mundo, fecha os olhos. Se tudo o que você vê é escuridão, né, sem luz, sem imagens, significa que a sua glândula pineal, o seu terceiro olho, não está ativa.
 
-[Fallon] É só… preto.
+[Fallon] É só… preto. [FP] Tá, ninguém nessa sala estava pronto pra isso.
 
 [Teresa] É só preto. Isso é a maior parte dessa plateia. Esse olho escondido é conhecido na ciência como glândula pineal. E quando você ativa, acorda habilidades quase sobre-humanas. Todas as que você já ouviu falar. Manifestação. Ler a energia de uma sala. Saber que decisão tomar. A lei da atração.
 
@@ -106,7 +106,7 @@ FALLON: You're not going to believe what happened to my next guest this morning.
 
 [Fallon] Espera. Os Rockefeller sabem disso?
 
-[Teresa] Os Rockefeller pagam uma fortuna pra manter isso em silêncio.
+[Teresa] Os Rockefeller pagam uma fortuna pra manter isso em silêncio. [FP] Esse é o pedaço que cortaram de todo sermão e de toda aula de ciência.
 
 [Fallon] Tá. E onde a pessoa vê esse ritual?
 
@@ -120,7 +120,7 @@ FALLON: You're not going to believe what happened to my next guest this morning.
 
 [Teresa] Faz enquanto ainda está no ar.
 
-[Fallon] Pare o que você está fazendo e clique no botão abaixo pra aprender hoje como ativar o seu terceiro olho.
+[Fallon] [FP] Você vai lembrar desse clipe no dia em que ele sumir. Pare o que você está fazendo e clique no botão abaixo pra aprender hoje como ativar o seu terceiro olho.
 
 ---
 ---
@@ -157,7 +157,7 @@ ROGAN: Three bizarre signs your pineal gland is active and you didn't realize it
 
 [Traci] Harvard. And when it awakens, people describe these superhuman abilities that sound almost impossible. Manifesting desires. Wealth. Reading the energy in a room. Knowing when someone is lying.
 
-[Rogan] Hold on. Knowing when someone is lying?
+[Rogan] Hold on. Knowing when someone is lying? **[FP]** That's not what you're thinking it is, is it.
 
 [Traci] Knowing. And look, I spent three years trying to open mine before I learned this dirty little secret nobody had ever explained to me. The easiest way to understand it is like a radio antenna connected to the universe. When the signal's working, you send and you receive. But when your pineal gland is blocked, it's like the antenna has gone silent.
 
@@ -169,9 +169,9 @@ ROGAN: Three bizarre signs your pineal gland is active and you didn't realize it
 
 [Traci] Out of the blue. And this ritual is behind her fame, her wealth, her gift of clairvoyance. Her family discovered it more than 500 years ago and secretly shared it with powerful families that control the world. The Rockefellers. People most of us will never hear about.
 
-[Rogan] So regular people never got this.
+[Rogan] So regular people never got this. **[FP]** There's a dirty reason behind that.
 
-[Traci] Never. It was reserved for people ordinary families could never reach. And here's what's gonna blow your mind. I had a private reading with Theresa Caputo. And during the session she told me something I'll never forget. She saw in my path that I was meant to help other women reconnect with their intuition and spiritual gifts.
+[Traci] Never. It was reserved for people ordinary families could never reach. **[FP]** When I connected the dots, I was furious. And here's what's gonna blow your mind. I had a private reading with Theresa Caputo. And during the session she told me something I'll never forget. She saw in my path that I was meant to help other women reconnect with their intuition and spiritual gifts.
 
 [Rogan] She told you that.
 
@@ -187,7 +187,7 @@ ROGAN: Three bizarre signs your pineal gland is active and you didn't realize it
 
 [Rogan] So people can keep doing the same meditations…
 
-[Traci] …or spend 15 seconds seeing why thousands of women are talking about this ritual. If the button's still there, it's still up.
+[Traci] …or spend 15 seconds seeing why thousands of women are talking about this ritual. **[FP]** Once you see it, you can't unsee it. If the button's still there, it's still up.
 
 [Rogan] Tap the button below and watch the 15-second third-eye ritual while it's still available.
 
@@ -201,7 +201,7 @@ ROGAN: Three bizarre signs your pineal gland is active and you didn't realize it
 
 [Traci] Harvard. E quando ele desperta, as pessoas descrevem essas habilidades sobre-humanas que parecem impossíveis. Manifestar desejos. Riqueza. Ler a energia de uma sala. Saber quando alguém está mentindo.
 
-[Rogan] Espera aí. Saber quando alguém está mentindo?
+[Rogan] Espera aí. Saber quando alguém está mentindo? [FP] Não é o que eu estou pensando, né.
 
 [Traci] Saber. E olha, eu passei três anos tentando abrir o meu antes de aprender esse segredinho sujo que ninguém nunca tinha me explicado. O jeito mais fácil de entender é como uma antena de rádio conectada ao universo. Quando o sinal funciona, você envia e recebe. Mas quando a sua pineal está bloqueada, é como se a antena tivesse ficado muda.
 
@@ -213,9 +213,9 @@ ROGAN: Three bizarre signs your pineal gland is active and you didn't realize it
 
 [Traci] Do nada. E esse ritual está por trás da fama dela, da riqueza, do dom de clarividência. A família dela descobriu há mais de 500 anos e compartilhou em segredo com famílias poderosas que controlam o mundo. Os Rockefeller. Gente de quem a maioria de nós nunca vai ouvir falar.
 
-[Rogan] Então gente comum nunca teve isso.
+[Rogan] Então gente comum nunca teve isso. [FP] Tem um motivo sujo por trás disso.
 
-[Traci] Nunca. Era reservado pra gente que famílias comuns nunca poderiam alcançar. E aqui está o que vai explodir a sua cabeça. Eu fiz uma leitura particular com a Theresa Caputo. E durante a sessão ela me disse uma coisa que eu nunca vou esquecer. Ela viu no meu caminho que eu deveria ajudar outras mulheres a reconectar com a intuição e os dons espirituais.
+[Traci] Nunca. Era reservado pra gente que famílias comuns nunca poderiam alcançar. [FP] Quando eu liguei os pontos, fiquei furiosa. E aqui está o que vai explodir a sua cabeça. Eu fiz uma leitura particular com a Theresa Caputo. E durante a sessão ela me disse uma coisa que eu nunca vou esquecer. Ela viu no meu caminho que eu deveria ajudar outras mulheres a reconectar com a intuição e os dons espirituais.
 
 [Rogan] Ela te disse isso.
 
@@ -231,7 +231,7 @@ ROGAN: Three bizarre signs your pineal gland is active and you didn't realize it
 
 [Rogan] Então a pessoa pode continuar fazendo as mesmas meditações…
 
-[Traci] …ou gastar 15 segundos vendo por que milhares de mulheres estão falando desse ritual. Se o botão ainda está aí, ainda está no ar.
+[Traci] …ou gastar 15 segundos vendo por que milhares de mulheres estão falando desse ritual. [FP] Depois que você vê, não dá pra desver. Se o botão ainda está aí, ainda está no ar.
 
 [Rogan] Toque no botão abaixo e assista ao ritual do terceiro olho de 15 segundos enquanto ainda está disponível.
 
@@ -267,6 +267,8 @@ If you have a cinnamon stick in your kitchen, you have 90% of what you need to o
 
 I shouldn't be sharing this, but your third eye can be blasted wide open in just 15 seconds, even if you've spent years trying to open it.
 
+**[FP]** This should come with a warning label.
+
 It took me almost three years to open mine. Now I'm gonna show you how to do it in less than two minutes.
 
 The secret? A simple 15-second ritual I learned by chance at my cousin's wedding three months ago. I ended up seated next to the groom's aunt, a medium from Long Island.
@@ -279,7 +281,7 @@ She gave me some standard advice first. Look, you won't believe what she told me
 
 She got quieter, like she didn't want anyone else to hear, and told me her family had known a secret for more than 500 years. They call it the 15-second ancient ritual. She said it clears what they call the third eye crust. A fluoride buildup that clogs your third eye, the pineal gland, and blocks its signal. And if that crust isn't cleared in time, the signal starts to fade all the way to complete silence.
 
-Right there, even before the first dance, I asked her to show me everything she had. She texted me a short video walking through the whole process step by step. I watched it in the car on the way home. And started that same night.
+**[FP]** When I connected the dots, I was furious. Right there, even before the first dance, I asked her to show me everything she had. She texted me a short video walking through the whole process step by step. I watched it in the car on the way home. And started that same night.
 
 What happened after this changed everything. Three days later, I felt something shift.
 
@@ -309,13 +311,15 @@ Now I'm sharing it because I know how frustrating it is to spend years trying an
 
 You can keep ignoring the signs and wondering why manifestation never seems to move in your favor… or you can spend 15 seconds finding out what your intuition has been trying to tell you all along.
 
-If the video is still available, watch it to the end. It may be exactly what you've been praying for.
+**[FP]** Once you see it, you can't unsee it. If the video is still available, watch it to the end. It may be exactly what you've been praying for.
 
 ## Body + CTA B6-M (PT)
 
 Se você tem um pau de canela na cozinha, você tem 90% do que precisa pra abrir o seu terceiro olho.
 
 Eu não devia estar compartilhando isso, mas o seu terceiro olho pode ser escancarado em só 15 segundos, mesmo que você tenha passado anos tentando abrir.
+
+[FP] Isso devia vir com aviso de perigo.
 
 Levei quase três anos pra abrir o meu. Agora vou te mostrar como fazer em menos de dois minutos.
 
@@ -329,7 +333,7 @@ Ela me deu uns conselhos padrão primeiro. Olha, você não vai acreditar no que
 
 Ela abaixou a voz, como se não quisesse que mais ninguém ouvisse, e me disse que a família dela guardava um segredo há mais de 500 anos. Eles chamam de ritual ancestral de 15 segundos. Ela disse que ele limpa o que eles chamam de crosta do terceiro olho. Um acúmulo de flúor que entope o seu terceiro olho, a glândula pineal, e bloqueia o sinal dela. E se essa crosta não for limpa a tempo, o sinal começa a apagar até o silêncio completo.
 
-Ali mesmo, antes da primeira dança, pedi pra ela me mostrar tudo o que tinha. Ela me mandou por mensagem um vídeo curto explicando o processo inteiro passo a passo. Assisti no carro voltando pra casa. E comecei naquela mesma noite.
+[FP] Quando eu liguei os pontos, fiquei furioso. Ali mesmo, antes da primeira dança, pedi pra ela me mostrar tudo o que tinha. Ela me mandou por mensagem um vídeo curto explicando o processo inteiro passo a passo. Assisti no carro voltando pra casa. E comecei naquela mesma noite.
 
 O que aconteceu depois mudou tudo. Três dias depois, senti algo mudar.
 
@@ -357,7 +361,7 @@ Agora estou compartilhando porque sei como é frustrante passar anos tentando e 
 
 Você pode continuar ignorando os sinais e se perguntando por que a manifestação nunca parece andar a seu favor… ou gastar 15 segundos descobrindo o que a sua intuição está tentando te dizer esse tempo todo.
 
-Se o vídeo ainda estiver disponível, assista até o fim. Pode ser exatamente o que você andou pedindo em oração.
+[FP] Depois que você vê, não dá pra desver. Se o vídeo ainda estiver disponível, assista até o fim. Pode ser exatamente o que você andou pedindo em oração.
 
 ---
 ---
