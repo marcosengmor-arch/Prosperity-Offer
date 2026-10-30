@@ -23,10 +23,10 @@
 **In the episode the Vatican tried to censor, Long Island Medium Theresa Caputo reveals the forgotten biblical recipe that reopens the "Bridge to God" inside your brain in just 7 days**
 
 ### [B3 · SUBHEADLINE]
-Forget the $50,000 private sessions Hollywood pays for. The same four ingredients hidden in Genesis, Psalms, Matthew and Exodus are now in one dropper you take before bed, so your prayers, your intuition and your luck start arriving again.
+Forget the $50,000 private sessions Hollywood pays for. Soul Flush puts the same four ingredients hidden in Genesis, Psalms, Matthew and Exodus into one dropper you take before bed, so your prayers, your intuition and your luck start arriving again.
 
 ### [B4 · CITAÇÃO + FOTO]
-*"Theresa showed me the gland that was blocking everything. Six months later I had the tour, the money, and the man I'd been praying for."*
+*"Theresa showed me the gland that was blocking everything. Six months of Soul Flush later, I had the tour, the money, and the man I'd been praying for."*
 – Taylor Swift
 [IMG: Theresa Caputo com Taylor Swift, cena do episódio censurado]
 
@@ -41,15 +41,21 @@ Theresa Caputo, the psychic medium who spent 20 years connecting families with t
 
 **[FP]** This is the part they cut out of every sermon.
 
-What she was going to reveal is simple. There's a structure the size of a grain of rice in the center of your brain that God left so we could communicate with Him. Science calls it the pineal gland. The Bible calls it Peniel, "the face of God." And 90% of women have lost that bridge. That's why when you pray, when you try to manifest, it feels like God can't hear you.
+What she was going to present is simple, and bold. There's a structure the size of a grain of rice in the center of your brain that God left so we could communicate with Him. Science calls it the pineal gland. The Bible calls it Peniel, "the face of God." And 90% of women have lost that bridge. That's why when you pray, when you try to manifest, it feels like God can't hear you.
 
-Taylor Swift, Jennifer Lopez and Kim Kardashian spend over $50,000 a year protecting this point in the brain, more than they spend on cosmetic procedures. When Theresa started talking about it, the ritual went viral. Videos reached 15 billion views. Then the platforms began deleting them.
+Her solution is **Soul Flush**: a daily dropper with the four biblical ingredients her grandmother wrote down in her diary, the exact formula Theresa has used for 20 years to keep her own bridge open and the one she shared behind the scenes with celebrities.
 
-Today, thanks to Theresa's refusal to stay silent, the same recipe her family protected for generations has already reopened the bridge for more than 77,000 women.
+Soul Flush delivers its first results fast. In Theresa's follow-ups, 9 out of 10 women who complete the first seven days report deeper sleep, the "radio of worry" in their head turning off, and the first signs of intuition coming back, before the first bottle is even half empty.
+
+Furthermore, Soul Flush is 100% natural, made with four ingredients named in Scripture, hand-harvested in specific lunar cycles, with no synthetic compound, no stimulant and no side effects. That makes it safer and more effective than any manifestation course, energy cleansing or meditation program, because none of those touch the fluoride crust on the gland.
+
+Taylor Swift, Jennifer Lopez and Kim Kardashian spend over $50,000 a year protecting this point in the brain, more than they spend on cosmetic procedures. When Taylor realized what Soul Flush had done for her career and her love life, she didn't hesitate to pass it to her inner circle. When Theresa started talking about it publicly, videos reached 15 billion views. Then the platforms began deleting them.
+
+Today, thanks to Theresa's refusal to stay silent, Soul Flush has already reopened the bridge to God for more than 77,000 women.
 
 ### [B7 · SEGUNDA CITAÇÃO]
 [IMG: Jennifer Lopez]
-*"I spend more protecting this gland than on anything else in my routine. It's the difference between asking and receiving."*
+*"I spend more protecting this gland than on anything else in my routine. Soul Flush is the difference between asking and receiving."*
 – Jennifer Lopez
 
 ---
@@ -246,10 +252,10 @@ Get your Soul Flush kit now!
 **No episódio que o Vaticano tentou censurar, a médium de Long Island Theresa Caputo revela a receita bíblica esquecida que reabre a "Ponte com Deus" dentro do seu cérebro em só 7 dias**
 
 ### [B3 · SUBHEADLINE]
-Esqueça as sessões privadas de 50.000 dólares que Hollywood paga. Os mesmos quatro ingredientes escondidos em Gênesis, Salmos, Mateus e Êxodo agora estão num conta-gotas que você toma antes de dormir, pra suas orações, sua intuição e sua sorte voltarem a chegar.
+Esqueça as sessões privadas de 50.000 dólares que Hollywood paga. O Soul Flush coloca os mesmos quatro ingredientes escondidos em Gênesis, Salmos, Mateus e Êxodo num conta-gotas que você toma antes de dormir, pra suas orações, sua intuição e sua sorte voltarem a chegar.
 
 ### [B4 · CITAÇÃO + FOTO]
-*"A Theresa me mostrou a glândula que estava bloqueando tudo. Seis meses depois eu tinha a turnê, o dinheiro e o homem que eu pedia em oração."*
+*"A Theresa me mostrou a glândula que estava bloqueando tudo. Seis meses de Soul Flush depois, eu tinha a turnê, o dinheiro e o homem que eu pedia em oração."*
 – Taylor Swift
 
 ### [B5 · CTA 1]
@@ -263,14 +269,20 @@ Theresa Caputo, a médium que passou 20 anos conectando famílias aos seus entes
 
 [FP] Essa é a parte que cortaram de todo sermão.
 
-O que ela ia revelar é simples. Existe uma estrutura do tamanho de um grão de arroz no centro do seu cérebro que Deus deixou pra gente se comunicar com Ele. A ciência chama de glândula pineal. A Bíblia chama de Peniel, "a face de Deus". E 90% das mulheres perderam essa ponte. Por isso, quando você reza, quando tenta manifestar, parece que Deus não te ouve.
+O que ela ia apresentar é simples, e ousado. Existe uma estrutura do tamanho de um grão de arroz no centro do seu cérebro que Deus deixou pra gente se comunicar com Ele. A ciência chama de glândula pineal. A Bíblia chama de Peniel, "a face de Deus". E 90% das mulheres perderam essa ponte. Por isso, quando você reza, quando tenta manifestar, parece que Deus não te ouve.
 
-Taylor Swift, Jennifer Lopez e Kim Kardashian gastam mais de 50.000 dólares por ano protegendo esse ponto no cérebro, mais do que gastam em procedimentos estéticos. Quando a Theresa começou a falar disso, o ritual viralizou. Os vídeos chegaram a 15 bilhões de visualizações. Aí as plataformas começaram a apagar.
+A solução dela é o **Soul Flush**: um conta-gotas diário com os quatro ingredientes bíblicos que a avó dela anotou no diário, a fórmula exata que a Theresa usa há 20 anos pra manter a própria ponte aberta e a que ela compartilhou nos bastidores com celebridades.
 
-Hoje, graças à recusa da Theresa em ficar calada, a mesma receita que a família dela protegeu por gerações já reabriu a ponte de mais de 77.000 mulheres.
+O Soul Flush entrega os primeiros resultados rápido. Nos acompanhamentos da Theresa, 9 em cada 10 mulheres que completam os primeiros sete dias relatam sono mais profundo, o "rádio de preocupação" na cabeça desligando e os primeiros sinais da intuição voltando, antes de o primeiro frasco chegar à metade.
+
+Além disso, o Soul Flush é 100% natural, feito com quatro ingredientes citados na Escritura, colhidos à mão em ciclos lunares específicos, sem composto sintético, sem estimulante e sem efeito colateral. Isso o torna mais seguro e mais eficaz do que qualquer curso de manifestação, limpeza energética ou programa de meditação, porque nenhum deles toca na crosta de flúor da glândula.
+
+Taylor Swift, Jennifer Lopez e Kim Kardashian gastam mais de 50.000 dólares por ano protegendo esse ponto no cérebro, mais do que gastam em procedimentos estéticos. Quando a Taylor percebeu o que o Soul Flush tinha feito pela carreira e pela vida amorosa dela, não hesitou em passar pro círculo íntimo. Quando a Theresa começou a falar disso publicamente, os vídeos chegaram a 15 bilhões de visualizações. Aí as plataformas começaram a apagar.
+
+Hoje, graças à recusa da Theresa em ficar calada, o Soul Flush já reabriu a ponte com Deus de mais de 77.000 mulheres.
 
 ### [B7 · SEGUNDA CITAÇÃO]
-*"Eu gasto mais protegendo essa glândula do que com qualquer outra coisa da minha rotina. É a diferença entre pedir e receber."*
+*"Eu gasto mais protegendo essa glândula do que com qualquer outra coisa da minha rotina. O Soul Flush é a diferença entre pedir e receber."*
 – Jennifer Lopez
 
 ---
