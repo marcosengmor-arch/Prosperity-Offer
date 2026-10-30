@@ -42,3 +42,6 @@ A persona da VSL é feminina e isso se mantém. Peças de pós-venda ficam "no m
 
 ## UP3 (decisão do cliente, 28/10)
 Produto: **Divine Crystals**. Só pra quem compra o UP2. Mecanismo: cristais de calcita piezoelétricos da pineal; a dose dupla de hissopo arranca o flúor e leva os minerais dos cristais junto; antena limpa sem cristal é antena morta (transmite, não recebe). Ingredientes (premissa): ouro coloidal (terceiro presente dos Magos), minerais do Mar Morto (boro, magnésio, estrôncio), sílica de cavalinha, ácido fúlvico de shilajit. Oferta: 6 fr, $197 ($32,83/fr), sem âncora. Bônus: Crystal Tuning Frequency (áudio 12 min, âncora $3.000). Avatar: Theresa, última aparição. Copy em `06-funil/06-output/UP3-Divine-Crystals.md`.
+
+## DS3 (30/10)
+Downsell do UP3: Divine Crystals, 2 fr a $39 ($78), bônus Crystal Tuning Frequency mantido. Vídeo de gratidão e adeus da Theresa. Copy em `06-funil/06-output/DS3-Divine-Crystals.md`.
