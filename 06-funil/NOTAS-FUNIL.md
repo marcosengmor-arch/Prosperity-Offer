@@ -45,3 +45,6 @@ Produto: **Divine Crystals**. Só pra quem compra o UP2. Mecanismo: cristais de 
 
 ## DS3 (30/10)
 Downsell do UP3: Divine Crystals, 2 fr a $39 ($78), bônus Crystal Tuning Frequency mantido. Vídeo de gratidão e adeus da Theresa. Copy em `06-funil/06-output/DS3-Divine-Crystals.md`.
+
+## Back-redirect (30/10)
+Pra quem sai da VSL antes do fim. Advertorial no modelo SodaBurn, com a VSL resumida e os preços da VSL (sem desconto): 6 fr $49/$294 · 3 fr $69/$207 · 2 fr $79/$158 (confirmar). Copy em `06-funil/06-output/BACK-REDIRECT-Soul-Flush.md`.
